@@ -1,0 +1,279 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: main arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: main arial top 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,28,0
+Style: italics arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,1,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: italics top arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,1,0,0,100,100,0,0,1,1.8,0,8,0,0,28,0
+Style: main arial subs,Calibri,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: Episode Title,Calibri,48,&H00FFFFFF,&H000000FF,&H002E77A6,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,27,27,284,1
+Style: Next Episode Title,Calibri,40,&H00000000,&H000000FF,&H00D5CCC9,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,27,27,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.85,0:00:07.05,italics arial 20,NA,0000,0000,0000,,Thunder. Lightning.
+Dialogue: 0,0:00:07.75,0:00:12.48,italics arial 20,NA,0000,0000,0000,,Our story begins with that which \Nshakes the heavens and earth.
+Dialogue: 0,0:00:12.48,0:00:18.28,italics arial 20,NA,0000,0000,0000,,Like a thunderbolt in a blue sky, \Na startling fantasy begins to unfold!
+Dialogue: 0,0:00:25.38,0:00:27.53,main arial 20,Guy,0000,0000,0000,,Run! Dān Fěi, run!
+Dialogue: 0,0:00:27.53,0:00:28.46,main arial 20,Girl,0000,0000,0000,,Brother!
+Dialogue: 0,0:00:30.62,0:00:32.78,main arial 20,Goon,0000,0000,0000,,After them! Don't let them escape!
+Dialogue: 0,0:00:54.21,0:00:55.49,main arial 20,Dark,0000,0000,0000,,Foolish little girl...
+Dialogue: 0,0:00:55.49,0:00:58.20,main arial 20,,0000,0000,0000,,Know now the price \Nof opposing the Xuán Guǐ Zōng!
+Dialogue: 0,0:01:05.10,0:01:05.99,main arial 20,Bro,0000,0000,0000,,I won't let you!
+Dialogue: 0,0:01:19.89,0:01:24.72,main arial 20,Baddie,0000,0000,0000,,To think that your ancient \NHù Yìn Shī blade is so weak...
+Dialogue: 0,0:01:24.72,0:01:26.20,main arial 20,Baddie,0000,0000,0000,,You make me laugh!
+Dialogue: 0,0:01:29.72,0:01:32.53,main arial 20,Bro,0000,0000,0000,,You underestimate the techniques \Nof the Dān, you cur?
+Dialogue: 0,0:01:34.79,0:01:35.77,main arial 20,Bro,0000,0000,0000,,Dān Blade Technique:
+Dialogue: 0,0:01:35.77,0:01:36.74,main arial 20,Bro,0000,0000,0000,,Flying Red Cloud Rush!
+Dialogue: 0,0:01:44.97,0:01:47.34,main arial 20,Bro,0000,0000,0000,,So you've dodged it. But...
+Dialogue: 0,0:01:47.34,0:01:48.95,main arial 20,Bro,0000,0000,0000,,There will not be a next time!
+Dialogue: 0,0:01:55.38,0:01:57.01,main arial 20,Boss,0000,0000,0000,,Precisely...
+Dialogue: 0,0:01:58.46,0:01:59.93,main arial 20,Boss,0000,0000,0000,,There will not be a next time.
+Dialogue: 0,0:02:05.30,0:02:09.80,main arial 20,Boss,0000,0000,0000,,{Mandarin}All life is a prelude to death.
+Dialogue: 0,0:02:10.23,0:02:13.50,main arial 20,Boss,0000,0000,0000,,To serve me until you are a corpse,
+Dialogue: 0,0:02:13.50,0:02:17.14,main arial 20,Boss,0000,0000,0000,,or to be cut down and become one.
+Dialogue: 0,0:02:17.14,0:02:21.52,main arial 20,Boss,0000,0000,0000,,Your have two options at the end of my sword.
+Dialogue: 0,0:02:27.61,0:02:29.29,main arial 20,Bro,0000,0000,0000,,Sēn Luó Kū Gǔ...
+Dialogue: 0,0:02:29.29,0:02:30.22,main arial 20,Bro,0000,0000,0000,,Miè Tiān Hái!
+Dialogue: 0,0:02:30.80,0:02:35.03,main arial 20,Bro,0000,0000,0000,,What madness brought you \Nto our sacred ground?!
+Dialogue: 0,0:02:35.69,0:02:38.92,main arial 20,Boss,0000,0000,0000,,I have already told you what I'm after.
+Dialogue: 0,0:02:39.64,0:02:42.52,main arial 20,Boss,0000,0000,0000,,Now, give it to me.
+Dialogue: 0,0:02:42.52,0:02:46.47,main arial 20,Boss,0000,0000,0000,,I know that you two always have it with you, \Nand never let it out of your sight.
+Dialogue: 0,0:02:47.33,0:02:51.81,main arial 20,Bro,0000,0000,0000,,We'd never hand it over \Nto a villain like you!
+Dialogue: 0,0:03:01.35,0:03:04.53,main arial 20,Boss,0000,0000,0000,,Handing it over while you still live,
+Dialogue: 0,0:03:04.53,0:03:07.41,main arial 20,Boss,0000,0000,0000,,or prying it from your corpses...
+Dialogue: 0,0:03:08.57,0:03:10.93,main arial 20,Boss,0000,0000,0000,,That makes very little difference to me.
+Dialogue: 0,0:03:11.96,0:03:16.58,main arial 20,Boss,0000,0000,0000,,But I'm sure the difference \Nis much greater to you!
+Dialogue: 0,0:03:23.13,0:03:25.68,main arial 20,Dān Héng,0000,0000,0000,,My duty carries more weight \Nthan my own life...
+Dialogue: 0,0:03:25.68,0:03:29.79,main arial 20,Dān Héng,0000,0000,0000,,If I fail in it, then there's no difference \Nbetween life and death!
+Dialogue: 0,0:03:48.13,0:03:52.07,main arial 20,Miè Tiān Hái,0000,0000,0000,,Fool! I warned you \Nthere would not be a next time!
+Dialogue: 0,0:03:55.52,0:03:58.54,main arial 20,Dān Héng,0000,0000,0000,,Then face this!
+Dialogue: 0,0:04:03.22,0:04:06.92,main arial 20,,0000,0000,0000,,Dān Blade Technique: Yang Sunrise!
+Dialogue: 0,0:04:23.97,0:04:27.57,main arial 20,Miè Tiān Hái,0000,0000,0000,,Demonic War Force: Total Annihilation!
+Dialogue: 0,0:04:33.41,0:04:34.29,main arial 20,Dān Fěi,0000,0000,0000,,Brother!
+Dialogue: 0,0:04:37.77,0:04:41.32,main arial 20,Dān Héng,0000,0000,0000,,Dān Fěi... you need to leave me and run...
+Dialogue: 0,0:04:41.32,0:04:43.13,main arial 20,Dān Fěi,0000,0000,0000,,Brother, I couldn't!
+Dialogue: 0,0:04:44.28,0:04:51.80,main arial 20,Dān Héng,0000,0000,0000,,If even one of us siblings survives, \Nthe Tiān Xing Jiàn sword will be protected!
+Dialogue: 0,0:04:51.80,0:04:53.43,main arial 20,Dān Héng,0000,0000,0000,,Go!
+Dialogue: 0,0:04:54.90,0:04:55.83,main arial 20,Miè Tiān Hái,0000,0000,0000,,You won't escape.
+Dialogue: 0,0:05:09.11,0:05:11.25,main arial 20,Dān Héng,0000,0000,0000,,Go, Dān Fěi!
+Dialogue: 0,0:05:11.25,0:05:11.88,main arial 20,Dān Fěi,0000,0000,0000,,Brother!
+Dialogue: 0,0:05:26.29,0:05:27.45,main arial 20,Cán Xiōng,0000,0000,0000,,Damn them!
+Dialogue: 0,0:05:59.78,0:06:00.97,main arial 20,Cán Xiōng,0000,0000,0000,,Is that...?
+Dialogue: 0,0:06:03.27,0:06:07.44,main arial 20,Miè Tiān Hái,0000,0000,0000,,That girl should have the guard \Nthat belongs to this handle.
+Dialogue: 0,0:06:07.83,0:06:10.64,main arial 20,Miè Tiān Hái,0000,0000,0000,,Find her, and leave no stone unturned.
+Dialogue: 0,0:06:10.92,0:06:13.17,main arial 20,Miè Tiān Hái,0000,0000,0000,,I will be returning to Seven Sins Tower.
+Dialogue: 0,0:06:13.17,0:06:13.96,main arial 20,Cán Xiōng,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:06:27.97,0:06:29.45,main arial 20,Cán Xiōng,0000,0000,0000,,Find the girl!
+Dialogue: 0,0:06:29.45,0:06:31.93,main arial 20,Cán Xiōng,0000,0000,0000,,Search everywhere downstream!
+Dialogue: 0,0:06:38.61,0:06:42.98,Episode Title,Title Sign,0000,0000,0000,,{\fad(500,500)}Episode 1  "Code of Umbrellas"
+Dialogue: 0,0:06:45.70,0:06:50.98,italics arial 20,NA,0000,0000,0000,,A truly wondrous journey does not require \Nhorses to carry you over great distances,
+Dialogue: 0,0:06:50.98,0:06:53.68,italics arial 20,NA,0000,0000,0000,,or a luxurious carriage,
+Dialogue: 0,0:06:53.68,0:06:57.63,italics arial 20,NA,0000,0000,0000,,but enough time to stop and \Naimlessly enjoy yourself.
+Dialogue: 0,0:06:58.85,0:07:01.44,italics arial 20,NA,0000,0000,0000,,One man, fully aware of this,
+Dialogue: 0,0:07:01.44,0:07:05.97,italics arial 20,NA,0000,0000,0000,,sits under a tree to stay out \Nof the rain, in no hurry at all.
+Dialogue: 0,0:07:11.25,0:07:15.38,italics arial 20,NA,0000,0000,0000,,Near him is a Buddha statue \Nwith a broken roof...
+Dialogue: 0,0:07:16.06,0:07:22.93,italics arial 20,NA,0000,0000,0000,,But the statue is shielded from the rain \Nby an umbrella someone has left.
+Dialogue: 0,0:07:23.87,0:07:29.24,italics arial 20,NA,0000,0000,0000,,But who left this umbrella, \Nand under what conditions?
+Dialogue: 0,0:07:35.25,0:07:36.40,main arial 20,Shāng Bù Huàn,0000,0000,0000,,Damn it...
+Dialogue: 0,0:07:36.40,0:07:37.80,main arial 20,Shāng Bù Huàn,0000,0000,0000,,If I'm getting this wet,
+Dialogue: 0,0:07:37.80,0:07:40.33,main arial 20,Shou,0000,0000,0000,,I might as well be swimming through a river!
+Dialogue: 0,0:07:42.39,0:07:44.57,main arial 20,Shou,0000,0000,0000,,Well, it's my lucky day!
+Dialogue: 0,0:07:49.27,0:07:51.41,main arial 20,White,0000,0000,0000,,Hey, you there. Traveler.
+Dialogue: 0,0:07:51.41,0:07:54.57,main arial 20,White,0000,0000,0000,,You don't plan to steal \Nthat umbrella, do you?
+Dialogue: 0,0:07:54.57,0:07:57.67,main arial 20,Shou,0000,0000,0000,,What? Is this your umbrella?
+Dialogue: 0,0:07:57.67,0:08:03.01,main arial 20,Rin,0000,0000,0000,,No, but it appears that someone took pity \Non that Buddha statue and left it there.
+Dialogue: 0,0:08:03.01,0:08:05.60,main arial 20,Rin,0000,0000,0000,,That makes it an offering.
+Dialogue: 0,0:08:06.85,0:08:08.93,main arial 20,Shou,0000,0000,0000,,If the statue were clay or wood, sure,
+Dialogue: 0,0:08:08.93,0:08:12.26,main arial 20,Shou,0000,0000,0000,,but a stone statue will suffer no harm \Nby getting wet in the rain.
+Dialogue: 0,0:08:12.26,0:08:15.58,main arial 20,Shou,0000,0000,0000,,I, on the other hand, will catch a cold.
+Dialogue: 0,0:08:16.55,0:08:20.03,main arial 20,Rin,0000,0000,0000,,If you don't like the rain, \Ncome sit under this tree.
+Dialogue: 0,0:08:20.37,0:08:24.82,main arial 20,Shou,0000,0000,0000,,I don't know how much time you have \Non your hands, but I'm in a hurry.
+Dialogue: 0,0:08:28.40,0:08:33.16,main arial 20,Rin,0000,0000,0000,,It appears that you care \Nvery little for the divine,
+Dialogue: 0,0:08:33.16,0:08:36.96,main arial 20,Rin,0000,0000,0000,,but I'm sure even a ruffian like you \Nhas some sense of virtue.
+Dialogue: 0,0:08:36.96,0:08:39.65,main arial 20,Rin,0000,0000,0000,,Are you prepared to repay your debt?
+Dialogue: 0,0:08:40.61,0:08:41.88,main arial 20,Shou,0000,0000,0000,,My debt?
+Dialogue: 0,0:08:41.88,0:08:46.72,main arial 20,Rin,0000,0000,0000,,Yes. You just borrowed an umbrella \Nfrom that Buddha statue.
+Dialogue: 0,0:08:46.72,0:08:48.62,main arial 20,Rin,0000,0000,0000,,You don't plan to skip out on this, do you?
+Dialogue: 0,0:08:49.85,0:08:51.11,main arial 20,Shou,0000,0000,0000,,What are you trying to say?
+Dialogue: 0,0:08:52.23,0:08:53.93,main arial 20,Rin,0000,0000,0000,,In your travels,
+Dialogue: 0,0:08:53.93,0:08:56.71,main arial 20,Rin,0000,0000,0000,,no matter who it may be,
+Dialogue: 0,0:08:56.71,0:08:59.96,main arial 20,Rin,0000,0000,0000,,show the first person you see \Nsome compassion, in place of the Buddha.
+Dialogue: 0,0:09:00.69,0:09:04.58,main arial 20,Rin,0000,0000,0000,,If you swear to do that, \NI will bother you no more.
+Dialogue: 0,0:09:05.94,0:09:10.20,main arial 20,Shou,0000,0000,0000,,Man, you're annoying. All right, fine.
+Dialogue: 0,0:09:10.20,0:09:12.28,main arial 20,Shou,0000,0000,0000,,I'll show some compassion or whatever.
+Dialogue: 0,0:09:15.05,0:09:16.68,main arial 20,Rin,0000,0000,0000,,Remember, no matter what.
+Dialogue: 0,0:09:18.38,0:09:20.11,main arial 20,Shou,0000,0000,0000,,What a strange guy.
+Dialogue: 0,0:09:26.67,0:09:30.20,main arial 20,Bù Huàn,0000,0000,0000,,What the hell was that? Me showing \Ncompassion in Buddha's place?
+Dialogue: 0,0:09:30.20,0:09:32.33,main arial 20,Bù Huàn,0000,0000,0000,,Do I look the type to do that?
+Dialogue: 0,0:09:39.62,0:09:43.14,main arial 20,Bù Huàn,0000,0000,0000,,The way she's walking... \NDoes she have some internal injuries?
+Dialogue: 0,0:09:45.43,0:09:49.35,main arial 20,Bù Huàn,0000,0000,0000,,Hey, you there. \NYou having some kind of trouble?
+Dialogue: 0,0:09:52.08,0:09:56.19,main arial 20,Bù Huàn,0000,0000,0000,,Yeah, all right. None of my business, I guess.
+Dialogue: 0,0:10:00.39,0:10:01.13,main arial 20,Bù Huàn,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:06.04,0:10:08.67,main arial 20,Goons,0000,0000,0000,,We've got you now, little girl! Surrender!
+Dialogue: 0,0:10:18.41,0:10:20.64,main arial 20,Shou,0000,0000,0000,,What the hell do you guys want?
+Dialogue: 0,0:10:26.87,0:10:28.35,main arial 20,Shou,0000,0000,0000,,Hello?
+Dialogue: 0,0:10:28.35,0:10:30.50,main arial 20,Shou,0000,0000,0000,,How about before you go swinging \Nthose nasty things around,
+Dialogue: 0,0:10:30.50,0:10:32.46,main arial 20,Shou,0000,0000,0000,,you tell me why you're doing that?
+Dialogue: 0,0:10:32.46,0:10:34.55,main arial 20,Shou,0000,0000,0000,,Why are you chasing her?
+Dialogue: 0,0:10:35.17,0:10:39.66,main arial 20,Goon,0000,0000,0000,,This has nothing to do with you. \NIf you interfere, you'll get hurt!
+Dialogue: 0,0:10:40.53,0:10:43.21,main arial 20,Shoou,0000,0000,0000,,Well, you see...
+Dialogue: 0,0:10:43.93,0:10:47.41,main arial 20,Shou,0000,0000,0000,,There's a Buddha back there \Nthat's getting drenched in this rain,
+Dialogue: 0,0:10:47.93,0:10:50.61,main arial 20,Shou,0000,0000,0000,,so I've got to save that girl.
+Dialogue: 0,0:10:51.69,0:10:53.18,main arial 20,Goon,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:10:53.18,0:10:57.55,main arial 20,Shou,0000,0000,0000,,Don't ask me! Well, anyway, \Nthat's just how this goes.
+Dialogue: 0,0:10:57.97,0:11:02.52,main arial 20,Goon,0000,0000,0000,,You fool! You dare get in our way, \Nknowing we're the Xuán Guǐ Zōng?
+Dialogue: 0,0:11:02.87,0:11:03.65,main arial 20,Shou,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:04.53,0:11:07.75,main arial 20,Shou,0000,0000,0000,,Do they call guys who chase around girls
+Dialogue: 0,0:11:07.75,0:11:09.83,main arial 20,Shou,0000,0000,0000,,the Xuán Guǐ Zōng around here?
+Dialogue: 0,0:11:10.18,0:11:11.43,main arial 20,Goon,0000,0000,0000,,What?!
+Dialogue: 0,0:11:17.32,0:11:18.57,main arial 20,Shou,0000,0000,0000,,Whoa, there.
+Dialogue: 0,0:11:18.92,0:11:22.70,main arial 20,Shou,0000,0000,0000,,Don't get angry. \NI'm not from around here.
+Dialogue: 0,0:11:22.70,0:11:25.21,main arial 20,Shou,0000,0000,0000,,So I'm not very aware of\Nwhat goes on around here.
+Dialogue: 0,0:11:26.25,0:11:27.89,main arial 20,Shou,0000,0000,0000,,But...
+Dialogue: 0,0:11:30.61,0:11:33.78,main arial 20,Shou,0000,0000,0000,,Since you're all getting\Nmad with no explanation,
+Dialogue: 0,0:11:34.19,0:11:39.94,main arial 20,Shou,0000,0000,0000,,that must mean that you guys \Ndon't care much for reason or logic.
+Dialogue: 0,0:11:39.94,0:11:42.09,main arial 20,Goon,0000,0000,0000,,Enough! Kill him!
+Dialogue: 0,0:11:58.16,0:12:00.50,main arial 20,Shou,0000,0000,0000,,Oh, damn it!
+Dialogue: 0,0:12:01.35,0:12:02.48,main arial 20,Goon,0000,0000,0000,,Retreat!
+Dialogue: 0,0:12:05.65,0:12:09.38,main arial 20,Shou,0000,0000,0000,,Hey! At least pay for my damn umbrella!
+Dialogue: 0,0:12:10.65,0:12:11.83,main arial 20,Shou,0000,0000,0000,,Damn it...
+Dialogue: 0,0:12:15.57,0:12:17.18,main arial 20,Shou,0000,0000,0000,,She's not hurt too badly.
+Dialogue: 0,0:12:17.18,0:12:18.14,main arial 20,Shou,0000,0000,0000,,This should do...
+Dialogue: 0,0:12:25.35,0:12:26.24,main arial 20,Shou,0000,0000,0000,,There.
+Dialogue: 0,0:12:26.24,0:12:29.04,main arial 20,Shou,0000,0000,0000,,Now, to let her rest somewhere...
+Dialogue: 0,0:12:44.40,0:12:46.84,main arial 20,Lǐn Xuě Yā,0000,0000,0000,,Well, what do we have here?
+Dialogue: 0,0:12:46.84,0:12:49.32,main arial 20,Lǐn Xuě Yā,0000,0000,0000,,I'm surprised you actually \Nhelped someone because
+Dialogue: 0,0:12:49.32,0:12:52.02,main arial 20,Lǐn Xuě Yā,0000,0000,0000,,of a debt owed to a Buddha statue.
+Dialogue: 0,0:12:52.67,0:12:56.76,main arial 20,Lǐn Xuě Yā,0000,0000,0000,,It seems that true heroism is \Nsomething that belies appearances.
+Dialogue: 0,0:12:56.76,0:12:59.06,main arial 20,Bù Huàn,0000,0000,0000,,What the hell is that supposed to mean?
+Dialogue: 0,0:12:59.06,0:13:01.85,main arial 20,Bù Huàn,0000,0000,0000,,Are you mocking me or something?
+Dialogue: 0,0:13:01.85,0:13:04.58,main arial 20,Xuě Yā,0000,0000,0000,,So, what happened to that girl?
+Dialogue: 0,0:13:04.58,0:13:08.35,main arial 20,Xuě Yā,0000,0000,0000,,She doesn't seem the type\N to be found collapsed on the road.
+Dialogue: 0,0:13:08.35,0:13:12.02,main arial 20,BH,0000,0000,0000,,A bunch of thugs were \Nchasing her down in a group.
+Dialogue: 0,0:13:12.02,0:13:15.52,main arial 20,BH,0000,0000,0000,,I think they called themselves \Nthe Xuán Guǐ Zōng?
+Dialogue: 0,0:13:15.52,0:13:17.00,main arial 20,XY,0000,0000,0000,,Xuán Guǐ Zōng?
+Dialogue: 0,0:13:17.00,0:13:21.08,main arial 20,XY,0000,0000,0000,,You started a fight with the\N Xuán Guǐ Zōng just to save a stranger?
+Dialogue: 0,0:13:21.08,0:13:24.81,main arial 20,BH,0000,0000,0000,,What? Are they a big deal around here?
+Dialogue: 0,0:13:26.71,0:13:29.94,main arial 20,XY,0000,0000,0000,,I thought you had a strange accent...
+Dialogue: 0,0:13:29.94,0:13:32.50,main arial 20,XY,0000,0000,0000,,You're not from this country, are you?
+Dialogue: 0,0:13:32.50,0:13:35.13,main arial 20,XY,0000,0000,0000,,I'd guess you've seen quite the long journey.
+Dialogue: 0,0:13:35.13,0:13:36.57,main arial 20,BH,0000,0000,0000,,That's right.
+Dialogue: 0,0:13:37.45,0:13:40.49,main arial 20,BH,0000,0000,0000,,Well, I'm taking off.
+Dialogue: 0,0:13:43.14,0:13:45.79,main arial 20,XY,0000,0000,0000,,Wait. What about this girl?
+Dialogue: 0,0:13:47.26,0:13:49.04,main arial 20,BH,0000,0000,0000,,I treated her wounds.
+Dialogue: 0,0:13:49.04,0:13:51.75,main arial 20,BH,0000,0000,0000,,She'll wake up if she can \Njust rest here for a bit.
+Dialogue: 0,0:13:51.98,0:13:55.61,main arial 20,XY,0000,0000,0000,,She might want to know her savior's name...
+Dialogue: 0,0:13:55.61,0:13:59.86,main arial 20,BH,0000,0000,0000,,Just tell her it was the providence \Nof that wet Buddha over there.
+Dialogue: 0,0:13:59.86,0:14:04.06,main arial 20,XY,0000,0000,0000,,Not only a man of little faith, \Nbut little sentimentality...
+Dialogue: 0,0:14:04.06,0:14:08.93,main arial 20,XY,0000,0000,0000,,Can you even imagine what kind of trouble \Nthis young girl is going through?
+Dialogue: 0,0:14:09.87,0:14:12.01,main arial 20,BH,0000,0000,0000,,You're telling me you can?
+Dialogue: 0,0:14:12.01,0:14:14.84,main arial 20,BH,0000,0000,0000,,You understand the situation \Nsomeone you've never talked to is in?
+Dialogue: 0,0:14:15.36,0:14:19.09,main arial 20,XY,0000,0000,0000,,Consider... the type of clothes she's in.
+Dialogue: 0,0:14:19.66,0:14:23.95,main arial 20,XY,0000,0000,0000,,They belong to those who oversee the \NShén Huì Xiè Mó of the Qióng Mù Zhī Zhàn.
+Dialogue: 0,0:14:23.95,0:14:25.98,main arial 20,XY,0000,0000,0000,,The clothes of a Hù Yìn Shī.
+Dialogue: 0,0:14:31.49,0:14:33.54,main arial 20,BH,0000,0000,0000,,You sure you're not mistaken?
+Dialogue: 0,0:14:33.99,0:14:36.54,main arial 20,BH,0000,0000,0000,,Why would a girl of such high standing
+Dialogue: 0,0:14:36.54,0:14:38.76,main arial 20,BH,0000,0000,0000,,be wandering the night, alone?
+Dialogue: 0,0:14:38.76,0:14:40.57,main arial 20,XY,0000,0000,0000,,Exactly.
+Dialogue: 0,0:14:40.57,0:14:44.79,main arial 20,XY,0000,0000,0000,,The Hù Yìn Shī clans are not meant \Nto step outside sacred ground,
+Dialogue: 0,0:14:44.79,0:14:46.98,main arial 20,XY,0000,0000,0000,,as they are tasked with \Ndedicating their lives to guard
+Dialogue: 0,0:14:46.98,0:14:49.16,main arial 20,XY,0000,0000,0000,,the wisdom of the gods and \Nthe tools of the demons.
+Dialogue: 0,0:14:49.16,0:14:54.78,main arial 20,XY,0000,0000,0000,,Yet we have a bizarre story where one has \Nbeen attacked by a band of violent thugs...
+Dialogue: 0,0:14:55.63,0:14:57.95,main arial 20,XY,0000,0000,0000,,This is something truly unusual.
+Dialogue: 0,0:14:57.95,0:14:59.97,main arial 20,BH,0000,0000,0000,,Yeah, sounds bizarre.
+Dialogue: 0,0:14:59.97,0:15:04.18,main arial 20,BH,0000,0000,0000,,So bizarre, so weird, that it stinks \Nof being a huge pain in the ass.
+Dialogue: 0,0:15:04.18,0:15:08.49,main arial 20,BH,0000,0000,0000,,Which means I'm even less \Ninterested in getting involved.
+Dialogue: 0,0:15:09.70,0:15:15.53,main arial 20,XY,0000,0000,0000,,Even if you know this is a trial that is \Ntoo much for one wounded girl to handle?
+Dialogue: 0,0:15:15.53,0:15:17.43,main arial 20,BH,0000,0000,0000,,Oh, shut up!
+Dialogue: 0,0:15:17.43,0:15:19.20,main arial 20,BH,0000,0000,0000,,You've been sitting there \Nlike this is my problem
+Dialogue: 0,0:15:19.20,0:15:21.18,main arial 20,BH,0000,0000,0000,,with that smug look, \Nrunning your mouth,
+Dialogue: 0,0:15:21.18,0:15:23.63,main arial 20,BH,0000,0000,0000,,but what are you gonna do about it?
+Dialogue: 0,0:15:24.45,0:15:27.20,main arial 20,BH,0000,0000,0000,,If you wanna talk down to people \Nabout showing mercy and whatnot,
+Dialogue: 0,0:15:27.20,0:15:31.14,main arial 20,,0000,0000,0000,,then don't turn to others: {\i1}you{\i0} save the girl!
+Dialogue: 0,0:15:31.14,0:15:35.21,main arial 20,XY,0000,0000,0000,,She already has a passionately \Nchivalrous defender in you.
+Dialogue: 0,0:15:35.21,0:15:37.37,main arial 20,XY,0000,0000,0000,,No need for me to get involved.
+Dialogue: 0,0:15:37.37,0:15:38.75,main arial 20,BH,0000,0000,0000,,You bastard...
+Dialogue: 0,0:15:45.28,0:15:47.09,main arial 20,CX,0000,0000,0000,,I've got you now.
+Dialogue: 0,0:15:47.09,0:15:49.72,main arial 20,CX,0000,0000,0000,,Did you really think you could escape?
+Dialogue: 0,0:15:50.54,0:15:52.45,main arial 20,XY,0000,0000,0000,,See what I was talking about?
+Dialogue: 0,0:15:52.45,0:15:55.37,main arial 20,XY,0000,0000,0000,,This girl's troubles aren't over yet.
+Dialogue: 0,0:15:56.21,0:15:57.80,main arial 20,BH,0000,0000,0000,,You there!
+Dialogue: 0,0:15:57.80,0:16:01.64,main arial 20,BH,0000,0000,0000,,I hear you got involved in this \Nout of some strange whim,
+Dialogue: 0,0:16:01.64,0:16:04.22,main arial 20,BH,0000,0000,0000,,but if you hand over the girl peacefully,
+Dialogue: 0,0:16:04.22,0:16:07.36,main arial 20,BH,0000,0000,0000,,I'll turn a blind eye to your \Nmistake, just this once.
+Dialogue: 0,0:16:07.36,0:16:09.98,main arial 20,BH,0000,0000,0000,,The truly wise know well enough \Nto avoid trouble, you know.
+Dialogue: 0,0:16:12.92,0:16:15.27,main arial 20,XY,0000,0000,0000,,An excellent proverb, perhaps,
+Dialogue: 0,0:16:15.27,0:16:19.82,main arial 20,XY,0000,0000,0000,,but no amount of wisdom can protect you \Nfrom every misfortune, at all times.
+Dialogue: 0,0:16:20.21,0:16:21.40,main arial 20,CX,0000,0000,0000,,What?!
+Dialogue: 0,0:16:30.59,0:16:31.53,main arial 20,CX,0000,0000,0000,,You bastard—!
+Dialogue: 0,0:16:37.55,0:16:39.84,main arial 20,CX,0000,0000,0000,,The girl?! When did she—?!
+Dialogue: 0,0:16:47.55,0:16:49.44,main arial 20,CX,0000,0000,0000,,Whoa, what the hell's gotten into you?!
+Dialogue: 0,0:16:50.57,0:16:55.17,main arial 20,CX,0000,0000,0000,,You won't escape this time!\NHand over the Tiān Xing Jiàn's guard!
+Dialogue: 0,0:16:55.17,0:16:57.06,main arial 20,CX,0000,0000,0000,,Or prepare to die!
+Dialogue: 0,0:16:57.39,0:17:00.63,main arial 20,BH,0000,0000,0000,,What are you talking about? \NHave you gone nuts?
+Dialogue: 0,0:17:04.49,0:17:07.43,main arial 20,BH,0000,0000,0000,,You bastard, you played some \Nkind of trick, didn't you?!
+Dialogue: 0,0:17:07.43,0:17:10.10,main arial 20,XY,0000,0000,0000,,Well now, I'm not sure what you mean.
+Dialogue: 0,0:17:10.10,0:17:14.31,main arial 20,XY,0000,0000,0000,,And no matter how wise a man may be, \Nsome troubles he must deal with directly.
+Dialogue: 0,0:17:16.52,0:17:17.45,main arial 20,BH,0000,0000,0000,,Son of a bitch!
+Dialogue: 0,0:17:23.65,0:17:27.06,main arial 20,BH,0000,0000,0000,,Would you snap out of it already?!
+Dialogue: 0,0:17:34.00,0:17:36.99,main arial 20,CX,0000,0000,0000,,Damn you... Damn you!
+Dialogue: 0,0:17:36.99,0:17:39.44,main arial 20,BH,0000,0000,0000,,Look, you wanna just drop this?
+Dialogue: 0,0:17:39.44,0:17:43.62,main arial 20,BH,0000,0000,0000,,You and I have no reason to die \Nor kill amongst ourselves.
+Dialogue: 0,0:17:43.62,0:17:46.75,main arial 20,CX,0000,0000,0000,,Never! That can never happen!
+Dialogue: 0,0:17:46.75,0:17:51.35,main arial 20,CX,0000,0000,0000,,The shame of this these wounds \Ncan only be soothed with your blood!
+Dialogue: 0,0:17:52.18,0:17:53.90,main arial 20,BH,0000,0000,0000,,Oh, yeah?
+Dialogue: 0,0:17:53.90,0:17:56.45,main arial 20,BH,0000,0000,0000,,You care more about that than your life, huh?
+Dialogue: 0,0:17:59.82,0:18:03.22,main arial 20,BH,0000,0000,0000,,Understood. No need for you \Nto feel shame anymore.
+Dialogue: 0,0:18:03.22,0:18:05.25,main arial 20,BH,0000,0000,0000,,Because I'm gonna get serious now!
+Dialogue: 0,0:18:11.85,0:18:14.24,main arial 20,CX,0000,0000,0000,,Dry Bones, Blood Slash!
+Dialogue: 0,0:18:19.48,0:18:22.91,main arial 20,BH,0000,0000,0000,,Formless Rogue Sword: Eight-Way Arrival!
+Dialogue: 0,0:18:37.69,0:18:41.03,main arial 20,CX,0000,0000,0000,,I can't die... I can't die like this...!
+Dialogue: 0,0:18:41.03,0:18:43.24,main arial 20,CX,0000,0000,0000,,I've dedicated my life to the sword...
+Dialogue: 0,0:18:43.24,0:18:46.88,main arial 20,CX,0000,0000,0000,,I can't die without knowing the name \Nof the man who struck me down!
+Dialogue: 0,0:18:46.88,0:18:48.98,main arial 20,BH,0000,0000,0000,,My name is Shāng Bù Huàn.
+Dialogue: 0,0:18:48.98,0:18:51.84,main arial 20,BH,0000,0000,0000,,If you're satisfied with that, \Ngo ahead and pass on.
+Dialogue: 0,0:18:53.02,0:18:56.97,main arial 20,CX,0000,0000,0000,,Shāng Bù Huàn... Shāng Bù Huàn!
+Dialogue: 0,0:18:59.25,0:19:00.78,main arial 20,CX,0000,0000,0000,,I have your name...
+Dialogue: 0,0:19:00.78,0:19:05.33,main arial 20,CX,0000,0000,0000,,The name of our enemy, who incurred \Nthe wrath of the Xuán Guǐ Zōng!
+Dialogue: 0,0:19:14.16,0:19:14.79,main arial 20,BH,0000,0000,0000,,Wha—
+Dialogue: 0,0:19:15.27,0:19:20.91,main arial 20,CX,0000,0000,0000,,Shāng Bù Huàn... There will be \Nno refuge for you now...
+Dialogue: 0,0:19:21.39,0:19:26.10,main arial 20,CX,0000,0000,0000,,The soldiers of the Xuán Guǐ Zōng \Nwill chase you to the ends of the earth!
+Dialogue: 0,0:19:41.38,0:19:43.61,main arial 20,BH,0000,0000,0000,,Whoa, whoa, what was all that?
+Dialogue: 0,0:19:43.61,0:19:46.94,main arial 20,XY,0000,0000,0000,,It seems you've taken a \Ngreater burden onto yourself.
+Dialogue: 0,0:19:46.94,0:19:49.68,main arial 20,XY,0000,0000,0000,,This is what it means to make \Na foe of the Xuán Guǐ Zōng.
+Dialogue: 0,0:19:49.68,0:19:52.09,main arial 20,BH,0000,0000,0000,,Dammit, you bastard, if you hadn't—
+Dialogue: 0,0:19:55.09,0:19:56.21,main arial 20,DF,0000,0000,0000,,Where am I...?
+Dialogue: 0,0:20:05.37,0:20:07.61,main arial 20,XY,0000,0000,0000,,A Cui Huī Jiàn sword \Nof the Hù Yìn Shī...
+Dialogue: 0,0:20:07.61,0:20:09.65,main arial 20,XY,0000,0000,0000,,And one made for a woman's use.
+Dialogue: 0,0:20:14.24,0:20:17.90,main arial 20,XY,0000,0000,0000,,I believe this belongs to you, am I correct?
+Dialogue: 0,0:20:17.90,0:20:19.29,main arial 20,DF,0000,0000,0000,,Who are you two?
+Dialogue: 0,0:20:19.60,0:20:23.05,main arial 20,BH,0000,0000,0000,,Uh... well...
+Dialogue: 0,0:20:30.61,0:20:33.54,italics arial 20,Nar,0000,0000,0000,,Between the world of man \Nand the world of devils,
+Dialogue: 0,0:20:33.54,0:20:36.30,italics arial 20,Nar,0000,0000,0000,,the natural barrier, Mó Jǐ Shān.
+Dialogue: 0,0:20:36.80,0:20:40.01,italics arial 20,Nar,0000,0000,0000,,The Seven Sins Tower that \Nstands at its highest point
+Dialogue: 0,0:20:40.01,0:20:44.51,italics arial 20,Nar,0000,0000,0000,,is the headquarters of the cruel \Nand villainous Xuán Guǐ Zōng.
+Dialogue: 0,0:20:53.97,0:20:55.79,main arial 20,Nar,0000,0000,0000,,What's become of Cán Xiōng and his men?
+Dialogue: 0,0:20:56.20,0:20:56.95,main arial 20,Diāo Mìng,0000,0000,0000,,Sire.
+Dialogue: 0,0:20:57.69,0:21:01.13,main arial 20,Diāo Mìng,0000,0000,0000,,There's been no new word from them.
+Dialogue: 0,0:21:11.91,0:21:13.65,main arial 20,Liè Mèi,0000,0000,0000,,I-Is that—?!
+Dialogue: 0,0:21:15.95,0:21:18.22,main arial 20,MTH,0000,0000,0000,,Well, Cán Xiōng...
+Dialogue: 0,0:21:18.87,0:21:22.38,main arial 20,MTH,0000,0000,0000,,You've returned looking \Nall the more manly for your efforts.
+Dialogue: 0,0:21:24.75,0:21:27.13,main arial 20,DM,0000,0000,0000,,Who could've done this?
+Dialogue: 0,0:21:27.57,0:21:28.74,main arial 20,MTH,0000,0000,0000,,Who, indeed?
+Dialogue: 0,0:21:29.69,0:21:32.56,main arial 20,MTH,0000,0000,0000,,Why not find out from the man himself?
+Dialogue: 0,0:21:53.53,0:21:55.88,main arial 20,MTH,0000,0000,0000,,Lüè Fēng Qiè Chén, eh?
+Dialogue: 0,0:21:59.08,0:22:03.59,main arial 20,MTH,0000,0000,0000,,How amusing to find him standing in our way!
+Dialogue: 0,0:23:39.88,0:23:49.89,Next Episode Title,Next Eptitle Sign,0000,0000,0000,,Next Time "Attack of the Xuán Guǐ Zōng!"
+Dialogue: 0,0:23:40.70,0:23:43.09,main arial 20,Narration,0000,0000,0000,,An ancient, stolen treasure.
+Dialogue: 0,0:23:43.09,0:23:45.53,main arial 20,Narration,0000,0000,0000,,The tears of a maiden for her late brother.
+Dialogue: 0,0:23:45.53,0:23:47.83,main arial 20,Narration,0000,0000,0000,,A wise man teaches to avoid danger,
+Dialogue: 0,0:23:47.83,0:23:49.89,main arial 20,Narration,0000,0000,0000,,but rising to a challenge is a man's path.

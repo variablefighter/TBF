@@ -1,0 +1,360 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: main arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: main arial top 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,28,0
+Style: italics arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,1,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: italics top arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,1,0,0,100,100,0,0,1,1.8,0,8,0,0,28,0
+Style: Episode Title,Calibri,48,&H009FD5F6,&H000000FF,&H002E77A6,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,27,27,284,1
+Style: Next Episode Title,Calibri,40,&H00000000,&H000000FF,&H00D5CCC9,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,27,27,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:31.52,0:01:36.39,Episode Title,,0000,0000,0000,,{\fad(500,500)}Episode 10: "A Thief's Pride"
+Dialogue: 0,0:01:37.49,0:01:40.50,main arial 20,SB,0000,0000,0000,,Now, Guǐ Niǎo... or I guess,
+Dialogue: 0,0:01:40.50,0:01:43.45,main arial 20,SB,0000,0000,0000,,Lǐn Xuě Yā... Where is the bastard?
+Dialogue: 0,0:01:52.43,0:01:53.99,main arial 20,SB,0000,0000,0000,,What's the commotion?
+Dialogue: 0,0:02:07.10,0:02:10.20,main arial 20,SW,0000,0000,0000,,It's like an endless \Nriver of cannon fodder.
+Dialogue: 0,0:02:10.20,0:02:15.54,main arial 20,SW,0000,0000,0000,,If you don't want to die,\Ntake me to the Enigmatic Gale.
+Dialogue: 0,0:02:26.05,0:02:27.32,main arial 20,SB,0000,0000,0000,,Shā Wú Shēng?
+Dialogue: 0,0:02:28.74,0:02:32.43,main arial 20,SB,0000,0000,0000,,Oh yeah, he said he was going to kill
+Dialogue: 0,0:02:32.43,0:02:35.62,main arial 20,SB,0000,0000,0000,,Lǐn as soon as he reached the tower.
+Dialogue: 0,0:02:37.40,0:02:40.87,main arial 20,Goons,0000,0000,0000,,Damn you... don't falter! Attack!
+Dialogue: 0,0:02:53.91,0:02:55.10,main arial 20,SW,0000,0000,0000,,Fools.
+Dialogue: 0,0:02:55.10,0:03:01.02,main arial 20,SW,0000,0000,0000,,You think your greater numbers can \Nhalt the Screaming Phoenix Killer?
+Dialogue: 0,0:03:08.33,0:03:13.62,main arial 20,SB,0000,0000,0000,,Well, him making all this \Nracket works out great for me.
+Dialogue: 0,0:03:13.62,0:03:15.67,main arial 20,SB,0000,0000,0000,,Gonna borrow this for a bit.
+Dialogue: 0,0:03:24.88,0:03:29.05,main arial 20,SB,0000,0000,0000,,Damn, this place is so huge, \NI don't know where to look.
+Dialogue: 0,0:03:29.92,0:03:32.82,main arial 20,SB,0000,0000,0000,,But considering how mad Shā Wú Shēng looked,
+Dialogue: 0,0:03:33.08,0:03:37.71,main arial 20,SB,0000,0000,0000,,Lǐn might already have been put down.
+Dialogue: 0,0:03:37.71,0:03:39.39,main arial 20,SB,0000,0000,0000,,That'd be fine by me.
+Dialogue: 0,0:03:39.70,0:03:40.63,main arial 20,SB,0000,0000,0000,,Whoa!
+Dialogue: 0,0:03:47.64,0:03:50.35,main arial 20,DM,0000,0000,0000,,We've prepared your room here.
+Dialogue: 0,0:03:50.35,0:03:52.25,main arial 20,DM,0000,0000,0000,,Please, make yourself at home.
+Dialogue: 0,0:03:52.25,0:03:53.20,main arial 20,XY,0000,0000,0000,,Right.
+Dialogue: 0,0:04:01.21,0:04:02.31,main arial 20,XY,0000,0000,0000,,This is...
+Dialogue: 0,0:04:14.72,0:04:16.77,main arial 20,SB,0000,0000,0000,,Glad you noticed.
+Dialogue: 0,0:04:16.77,0:04:20.40,main arial 20,SB,0000,0000,0000,,Killing you from behind would've \Nmade me feel guilty later.
+Dialogue: 0,0:04:20.78,0:04:25.36,main arial 20,XY,0000,0000,0000,,Kill me and the Tiān Xing Jiàn \Nstays with Miè Tiān Hái.
+Dialogue: 0,0:04:25.36,0:04:26.28,main arial 20,SB,0000,0000,0000,,Hm?
+Dialogue: 0,0:04:26.28,0:04:32.23,main arial 20,XY,0000,0000,0000,,The guard he has is a forgery.\NI still have the genuine article.
+Dialogue: 0,0:04:32.23,0:04:35.21,main arial 20,XY,0000,0000,0000,,And I'll be stealing the handle next.
+Dialogue: 0,0:04:35.21,0:04:38.51,main arial 20,XY,0000,0000,0000,,It's possible, if we work together.
+Dialogue: 0,0:04:38.78,0:04:42.62,main arial 20,SB,0000,0000,0000,,You really think I'm gonna help \Nyou obtain the Tiān Xing Jiàn?
+Dialogue: 0,0:04:43.03,0:04:44.36,main arial 20,XY,0000,0000,0000,,The opposite.
+Dialogue: 0,0:04:44.36,0:04:49.14,main arial 20,XY,0000,0000,0000,,I will be helping you return \Nthe Tiān Xing Jiàn,
+Dialogue: 0,0:04:49.14,0:04:52.16,main arial 20,XY,0000,0000,0000,,so that you can face Lady Dān Fěi again.
+Dialogue: 0,0:04:54.15,0:04:58.47,main arial 20,SB,0000,0000,0000,,That sounds pretty different from what \Nyou told Yún Xiāo and Xíng Hài.
+Dialogue: 0,0:04:58.47,0:05:02.31,main arial 20,XY,0000,0000,0000,,I just told them what I needed \Nto get them to help us
+Dialogue: 0,0:05:02.31,0:05:05.40,main arial 20,XY,0000,0000,0000,,cross the Demon Spine Mountains.
+Dialogue: 0,0:05:05.40,0:05:08.84,main arial 20,XY,0000,0000,0000,,Now that we're at Seven Sins Tower, \NI've no further use for them.
+Dialogue: 0,0:05:09.30,0:05:14.38,main arial 20,SB,0000,0000,0000,,And me? Why'd you bring me here, exactly?
+Dialogue: 0,0:05:14.76,0:05:19.68,main arial 20,XY,0000,0000,0000,,The One-Eyed Impaler and the Night's \NLament are unrepentant villains.
+Dialogue: 0,0:05:19.68,0:05:22.50,main arial 20,XY,0000,0000,0000,,They'd both use any chance to abandon me,
+Dialogue: 0,0:05:22.50,0:05:26.35,main arial 20,XY,0000,0000,0000,,and take the sword for their own.
+Dialogue: 0,0:05:26.35,0:05:29.30,main arial 20,XY,0000,0000,0000,,Which is where... you enter the picture.
+Dialogue: 0,0:05:30.52,0:05:32.54,main arial 20,XY,0000,0000,0000,,"Where did he come from?"
+Dialogue: 0,0:05:32.54,0:05:38.33,main arial 20,XY,0000,0000,0000,,The mere presence of someone whose \Nconnection to me wasn't clear
+Dialogue: 0,0:05:38.33,0:05:43.27,main arial 20,XY,0000,0000,0000,,would put them on guard and afford them \Nlittle chance to scheme against me.
+Dialogue: 0,0:05:43.69,0:05:47.22,main arial 20,XY,0000,0000,0000,,You were just the advantage I needed.
+Dialogue: 0,0:05:47.22,0:05:49.88,main arial 20,SB,0000,0000,0000,,Are you kidding? It sounds \Nlike I was just a distraction!
+Dialogue: 0,0:05:49.88,0:05:52.77,main arial 20,XY,0000,0000,0000,,I have my own complaints \Nabout that, believe me.
+Dialogue: 0,0:05:52.77,0:05:56.72,main arial 20,XY,0000,0000,0000,,If I had known you had the skills \Nto clear the Valley of the Dead
+Dialogue: 0,0:05:56.72,0:05:58.37,main arial 20,XY,0000,0000,0000,,and the Valley of the Doll by yourself,
+Dialogue: 0,0:05:58.37,0:06:02.94,main arial 20,XY,0000,0000,0000,,I wouldn't have had to invite Shòu Yún \NXiāo and Xíng Hài along in the first place.
+Dialogue: 0,0:06:06.01,0:06:10.52,main arial 20,XY,0000,0000,0000,,I had no idea you had mastered \Nsuch a dreadful sword.
+Dialogue: 0,0:06:10.52,0:06:13.51,main arial 20,XY,0000,0000,0000,,Why not tell me in the beginning?
+Dialogue: 0,0:06:13.51,0:06:16.25,main arial 20,SB,0000,0000,0000,,Don't try and make it sound \Nlike I was the one holding out.
+Dialogue: 0,0:06:16.25,0:06:19.69,main arial 20,SB,0000,0000,0000,,If I'd known I was working with a \Nthief to steal the Shén Huì Mó Xiè,
+Dialogue: 0,0:06:19.69,0:06:21.89,main arial 20,SB,0000,0000,0000,,I never would've come along!
+Dialogue: 0,0:06:21.89,0:06:24.19,main arial 20,XY,0000,0000,0000,,As I keep saying...
+Dialogue: 0,0:06:24.19,0:06:26.92,main arial 20,XY,0000,0000,0000,,I have no desire for the Tiān Xing Jiàn.
+Dialogue: 0,0:06:26.92,0:06:28.96,main arial 20,XY,0000,0000,0000,,My target is Miè Tiān Hái.
+Dialogue: 0,0:06:28.96,0:06:30.02,main arial 20,SB,0000,0000,0000,,What?
+Dialogue: 0,0:06:30.02,0:06:36.57,main arial 20,XY,0000,0000,0000,,I simply want to ruin his desperate \Nsearch for the ultimate sword.
+Dialogue: 0,0:06:36.57,0:06:39.51,main arial 20,XY,0000,0000,0000,,The fact that this involves the \NTiān Xing Jiàn enshrined at
+Dialogue: 0,0:06:39.51,0:06:41.10,main arial 20,XY,0000,0000,0000,,the Duàn Jiàn Cí is a coincidence.
+Dialogue: 0,0:06:41.49,0:06:43.70,main arial 20,SB,0000,0000,0000,,You have some kinda grudge against him?
+Dialogue: 0,0:06:43.70,0:06:47.85,main arial 20,XY,0000,0000,0000,,I don't mind explaining,\Nbut... do you really care?
+Dialogue: 0,0:06:51.34,0:06:55.11,main arial 20,SB,0000,0000,0000,,If you want me to trust you, then hand \Nover the Tiān Xing Jiàn's guard.
+Dialogue: 0,0:06:55.35,0:06:57.06,main arial 20,XY,0000,0000,0000,,It's not here.
+Dialogue: 0,0:06:57.74,0:07:00.72,main arial 20,XY,0000,0000,0000,,I hid it someplace safe.
+Dialogue: 0,0:07:01.15,0:07:05.06,main arial 20,SB,0000,0000,0000,,Then tell me where it's hidden.
+Dialogue: 0,0:07:05.87,0:07:08.10,main arial 20,SB,0000,0000,0000,,Do you remember Limitless Temple?
+Dialogue: 0,0:07:08.64,0:07:13.06,main arial 20,SB,0000,0000,0000,,Where I planned on meeting up with Master \NLián Qí, and we ran into Shā Wú Shēng.
+Dialogue: 0,0:07:13.94,0:07:17.19,main arial 20,SB,0000,0000,0000,,I hid it in the stone path.
+Dialogue: 0,0:07:17.19,0:07:21.75,main arial 20,SB,0000,0000,0000,,You had already swiped it \Nfrom Dān Fěi back then?
+Dialogue: 0,0:07:21.75,0:07:24.74,main arial 20,SB,0000,0000,0000,,Yet you didn't have a hint \Nof guilt on your face.
+Dialogue: 0,0:07:25.56,0:07:27.47,main arial 20,XY,0000,0000,0000,,Well, if I did,
+Dialogue: 0,0:07:27.47,0:07:30.59,main arial 20,XY,0000,0000,0000,,I wouldn't be much of a thief.
+Dialogue: 0,0:07:31.45,0:07:36.12,main arial 20,SB,0000,0000,0000,,You might even be lying to me \Nwithout blinking an eye right now.
+Dialogue: 0,0:07:36.12,0:07:38.90,main arial 20,XY,0000,0000,0000,,It's up to you whether or not you believe me.
+Dialogue: 0,0:07:38.90,0:07:42.49,main arial 20,XY,0000,0000,0000,,My life or the Tiān Xing Jiàn.\NWhich do you want more?
+Dialogue: 0,0:07:42.88,0:07:45.76,main arial 20,SB,0000,0000,0000,,What if I want both?
+Dialogue: 0,0:07:45.99,0:07:51.50,main arial 20,XY,0000,0000,0000,,Then I'd say you have to leave me alive \Nuntil you retrieve the sword's guard.
+Dialogue: 0,0:07:51.50,0:07:57.27,main arial 20,XY,0000,0000,0000,,Unless you have a plan to break into\NMiè Tiān Hái's safe on your own, that is.
+Dialogue: 0,0:08:05.01,0:08:09.60,main arial 20,XY,0000,0000,0000,,Regardless, you should stay here until \Nthe theft has been properly set up.
+Dialogue: 0,0:08:09.60,0:08:11.85,main arial 20,XY,0000,0000,0000,,You should be safe in here.
+Dialogue: 0,0:08:12.14,0:08:15.76,main arial 20,SB,0000,0000,0000,,I can't do that just yet.\NI still have business outside.
+Dialogue: 0,0:08:20.33,0:08:23.23,main arial 20,XY,0000,0000,0000,,Come on, don't do anything reckless!
+Dialogue: 0,0:08:23.72,0:08:26.52,main arial 20,XY,0000,0000,0000,,If they find you, this will \Nall have been for nothing.
+Dialogue: 0,0:08:26.52,0:08:30.09,main arial 20,SB,0000,0000,0000,,I'm not gonna screw up. I'll be right back.
+Dialogue: 0,0:08:43.22,0:08:46.05,main arial 20,DF,0000,0000,0000,,Master Shāng! I'm glad you're all right.
+Dialogue: 0,0:08:46.81,0:08:49.57,main arial 20,SB,0000,0000,0000,,Thought you might be a little \Nuneasy without a weapon.
+Dialogue: 0,0:08:49.57,0:08:51.60,main arial 20,SB,0000,0000,0000,,So I grabbed your sword.
+Dialogue: 0,0:08:51.60,0:08:54.39,main arial 20,SB,0000,0000,0000,,Picked up something to eat \Nfrom the kitchen, too.
+Dialogue: 0,0:08:57.93,0:09:00.67,main arial 20,DF,0000,0000,0000,,How did you manage this?
+Dialogue: 0,0:09:00.67,0:09:03.15,main arial 20,SB,0000,0000,0000,,The situation's changed a bit.
+Dialogue: 0,0:09:03.15,0:09:06.91,main arial 20,SB,0000,0000,0000,,There might be a way to take the \NTiān Xing Jiàn's handle back.
+Dialogue: 0,0:09:07.61,0:09:12.17,main arial 20,SB,0000,0000,0000,,First, about the guard. The one \NMiè Tiān Hái took was a fake.
+Dialogue: 0,0:09:12.73,0:09:16.59,main arial 20,SB,0000,0000,0000,,The real one was hidden by \NLǐn Xuě Yā a while ago.
+Dialogue: 0,0:09:16.59,0:09:19.83,main arial 20,SB,0000,0000,0000,,It's in the stone path, \Nback at Limitless Temple.
+Dialogue: 0,0:09:19.83,0:09:21.03,main arial 20,DF,0000,0000,0000,,That's...
+Dialogue: 0,0:09:21.95,0:09:24.86,main arial 20,DF,0000,0000,0000,,When did he manage to do that?
+Dialogue: 0,0:09:24.86,0:09:28.17,main arial 20,SB,0000,0000,0000,,In other words, before we got there,
+Dialogue: 0,0:09:28.17,0:09:32.06,main arial 20,SB,0000,0000,0000,,he had already swapped it for the fake,\Nback when you were holding it.
+Dialogue: 0,0:09:33.40,0:09:35.97,main arial 20,DF,0000,0000,0000,,What a dreadful man!
+Dialogue: 0,0:09:36.38,0:09:37.74,main arial 20,SB,0000,0000,0000,,Beyond that...
+Dialogue: 0,0:09:38.09,0:09:40.81,main arial 20,SB,0000,0000,0000,,Lǐn says he wants to steal the handle.
+Dialogue: 0,0:09:41.49,0:09:43.96,main arial 20,SB,0000,0000,0000,,Seems to be something personal for him.
+Dialogue: 0,0:09:43.96,0:09:46.22,main arial 20,SB,0000,0000,0000,,He also says he doesn't care about the
+Dialogue: 0,0:09:46.22,0:09:48.16,main arial 20,SB,0000,0000,0000,,Tiān Xing Jiàn if he can put \None over on Miè Tiān Hái.
+Dialogue: 0,0:09:48.81,0:09:50.65,main arial 20,SB,0000,0000,0000,,He's saying he'll give it back to you.
+Dialogue: 0,0:09:50.89,0:09:54.22,main arial 20,DF,0000,0000,0000,,Sir Shāng, do you believe \Nwhat he's claiming?
+Dialogue: 0,0:09:54.22,0:09:56.39,main arial 20,SB,0000,0000,0000,,Can't say for sure,
+Dialogue: 0,0:09:56.39,0:10:00.84,main arial 20,SB,0000,0000,0000,,but the fact is, there's no way to get \Nthe handle back save trusting him.
+Dialogue: 0,0:10:01.25,0:10:02.89,main arial 20,DF,0000,0000,0000,,The Enigmatic Gale...
+Dialogue: 0,0:10:03.71,0:10:06.44,main arial 20,DF,0000,0000,0000,,He casts no shadow when \Nhe walks in the moonlight,
+Dialogue: 0,0:10:06.44,0:10:08.83,main arial 20,DF,0000,0000,0000,,and leaves no footprints \Nwhen walking on snowy paths.
+Dialogue: 0,0:10:09.59,0:10:11.92,main arial 20,DF,0000,0000,0000,,He finds ways to even \Ndeceive the laws of nature.
+Dialogue: 0,0:10:11.92,0:10:14.94,main arial 20,DF,0000,0000,0000,,A master thief, hatching and \Nundertaking dangerous plots...
+Dialogue: 0,0:10:14.94,0:10:18.54,main arial 20,DF,0000,0000,0000,,His name has gone beyond rumor \Nand into the realm of legend.
+Dialogue: 0,0:10:19.21,0:10:23.06,main arial 20,DF,0000,0000,0000,,So much that even I, who had never left \Nthe sacred grounds, have heard of him.
+Dialogue: 0,0:10:23.69,0:10:26.56,main arial 20,DF,0000,0000,0000,,Don't you fear the thought
+Dialogue: 0,0:10:26.56,0:10:29.48,main arial 20,DF,0000,0000,0000,,that he might be manipulating you?
+Dialogue: 0,0:10:29.48,0:10:33.36,main arial 20,SB,0000,0000,0000,,Well, if it turns out he's lying,
+Dialogue: 0,0:10:33.36,0:10:36.36,main arial 20,SB,0000,0000,0000,,I can always just cut him \Ndown when I find out.
+Dialogue: 0,0:10:36.36,0:10:41.04,main arial 20,SB,0000,0000,0000,,That being the case, you're gonna \Nhave to wait here a bit longer.
+Dialogue: 0,0:10:41.04,0:10:46.24,main arial 20,SB,0000,0000,0000,,I know it's not the most comfortable place.\NYou gonna be okay?
+Dialogue: 0,0:10:46.24,0:10:49.54,main arial 20,DF,0000,0000,0000,,Please, don't worry about me.
+Dialogue: 0,0:10:49.54,0:10:52.72,main arial 20,SB,0000,0000,0000,,I don't know when I'll \Nnext be able to come by.
+Dialogue: 0,0:10:52.72,0:10:56.25,main arial 20,SB,0000,0000,0000,,You might feel hungry,\Nbut try to make that food last.
+Dialogue: 0,0:10:57.34,0:10:58.13,main arial 20,SB,0000,0000,0000,,See you later.
+Dialogue: 0,0:11:10.20,0:11:12.17,main arial 20,MT,0000,0000,0000,,Five thousand jīn of gold...
+Dialogue: 0,0:11:12.85,0:11:13.90,main arial 20,MT,0000,0000,0000,,I'll get it ready.
+Dialogue: 0,0:11:14.21,0:11:16.38,main arial 20,XY,0000,0000,0000,,That is good to hear!
+Dialogue: 0,0:11:16.38,0:11:18.07,main arial 20,MT,0000,0000,0000,,How will we handle the payment?
+Dialogue: 0,0:11:18.58,0:11:23.85,main arial 20,XY,0000,0000,0000,,It'd be impossible to carry all that \Ngold down from this mountain.
+Dialogue: 0,0:11:24.30,0:11:26.48,main arial 20,XY,0000,0000,0000,,I'd like you to prepare \Nit for me somewhere else.
+Dialogue: 0,0:11:26.48,0:11:29.74,main arial 20,XY,0000,0000,0000,,Including two carts to move it all.
+Dialogue: 0,0:11:30.09,0:11:33.38,main arial 20,MT,0000,0000,0000,,Such a cumbersome demand.
+Dialogue: 0,0:11:33.38,0:11:35.29,main arial 20,XY,0000,0000,0000,,I'm sure the Xuán Guǐ Zōng
+Dialogue: 0,0:11:35.29,0:11:38.75,main arial 20,XY,0000,0000,0000,,have the resources and methods to handle \Nthings away from this mountain, right?
+Dialogue: 0,0:11:39.55,0:11:41.00,main arial 20,MT,0000,0000,0000,,It's not that we lack.
+Dialogue: 0,0:11:41.56,0:11:44.54,main arial 20,MT,0000,0000,0000,,But five thousand jīn is \Na massive amount of gold.
+Dialogue: 0,0:11:44.54,0:11:48.06,main arial 20,MT,0000,0000,0000,,It will take a full day to prepare it.
+Dialogue: 0,0:11:48.43,0:11:50.21,main arial 20,XY,0000,0000,0000,,That's no problem.
+Dialogue: 0,0:11:50.21,0:11:55.97,main arial 20,XY,0000,0000,0000,,I can enjoy this wonderful \Nwine in the meantime.
+Dialogue: 0,0:11:56.36,0:11:59.80,main arial 20,MT,0000,0000,0000,,And how will I receive the guard?
+Dialogue: 0,0:11:59.80,0:12:02.11,main arial 20,XY,0000,0000,0000,,First, we'll leave the mountain together,
+Dialogue: 0,0:12:02.11,0:12:05.51,main arial 20,XY,0000,0000,0000,,and I'll confirm the payment.
+Dialogue: 0,0:12:05.98,0:12:09.82,main arial 20,XY,0000,0000,0000,,Then, from there, I'll personally \Ntake you to where it is hidden.
+Dialogue: 0,0:12:11.99,0:12:17.62,main arial 20,MT,0000,0000,0000,,What guarantee do I have that you won't \Nsimply take your payment and run?
+Dialogue: 0,0:12:17.62,0:12:20.57,main arial 20,XY,0000,0000,0000,,In order to keep you from worrying \Nabout something like that,
+Dialogue: 0,0:12:20.57,0:12:24.85,main arial 20,XY,0000,0000,0000,,I'm saying I will take you there \Nimmediately after being paid.
+Dialogue: 0,0:12:24.85,0:12:28.28,main arial 20,XY,0000,0000,0000,,I may be an infamous thief,
+Dialogue: 0,0:12:28.28,0:12:30.16,main arial 20,XY,0000,0000,0000,,but do you think I have a means to run
+Dialogue: 0,0:12:30.16,0:12:32.90,main arial 20,XY,0000,0000,0000,,and hide while carrying \Nfive thousand jīn of gold?
+Dialogue: 0,0:12:32.90,0:12:35.78,main arial 20,MT,0000,0000,0000,,I see. That makes sense.
+Dialogue: 0,0:12:36.10,0:12:37.84,main arial 20,XY,0000,0000,0000,,For the trip down,
+Dialogue: 0,0:12:37.84,0:12:42.10,main arial 20,XY,0000,0000,0000,,I'd like to request a\Ngentle-natured demon bird.
+Dialogue: 0,0:12:42.58,0:12:45.93,main arial 20,XY,0000,0000,0000,,If I were to fall during the flight,
+Dialogue: 0,0:12:45.93,0:12:48.02,main arial 20,XY,0000,0000,0000,,you'd be out of luck.
+Dialogue: 0,0:12:48.86,0:12:51.91,main arial 20,MT,0000,0000,0000,,You're a guest who makes a lot of requests.
+Dialogue: 0,0:12:51.91,0:12:56.06,main arial 20,MT,0000,0000,0000,,But, no matter. I will \Nsee to the preparations.
+Dialogue: 0,0:12:56.63,0:13:01.99,main arial 20,XY,0000,0000,0000,,Then, let us toast to the new \Nowner of the Tiān Xing Jiàn.
+Dialogue: 0,0:13:11.28,0:13:15.45,main arial 20,XY,0000,0000,0000,,The deal is set up.\NThings are about to start moving.
+Dialogue: 0,0:13:15.45,0:13:17.95,main arial 20,SB,0000,0000,0000,,Yeah? So what do we do, then?
+Dialogue: 0,0:13:17.95,0:13:20.59,main arial 20,XY,0000,0000,0000,,In order to break into the \NBones of Creation's safe,
+Dialogue: 0,0:13:20.59,0:13:24.87,main arial 20,XY,0000,0000,0000,,we'll need to draw him \Noutside of Seven Sins Tower.
+Dialogue: 0,0:13:24.87,0:13:27.64,main arial 20,XY,0000,0000,0000,,So, I've invited him down off \Nthe mountain under the pretense
+Dialogue: 0,0:13:27.64,0:13:29.39,main arial 20,XY,0000,0000,0000,,of exchanging the guard for payment.
+Dialogue: 0,0:13:29.60,0:13:31.01,main arial 20,SB,0000,0000,0000,,Whoa, hang on!
+Dialogue: 0,0:13:31.01,0:13:34.97,main arial 20,SB,0000,0000,0000,,Are you opening the safe, or leaving \Nthe mountain with Miè Tiān Hái?
+Dialogue: 0,0:13:34.97,0:13:36.52,main arial 20,SB,0000,0000,0000,,Just which is it?
+Dialogue: 0,0:13:36.52,0:13:39.34,main arial 20,XY,0000,0000,0000,,Put simply, we'll need a Lǐn \NXuě Yā to retrieve the payment,
+Dialogue: 0,0:13:39.34,0:13:41.37,main arial 20,XY,0000,0000,0000,,and a Lǐn Xuě Yā to crack the safe.
+Dialogue: 0,0:13:41.37,0:13:44.64,main arial 20,XY,0000,0000,0000,,This requires me to be in two places.
+Dialogue: 0,0:13:44.97,0:13:46.34,main arial 20,SB,0000,0000,0000,,What stupid crap is this?
+Dialogue: 0,0:13:46.73,0:13:48.74,main arial 20,XY,0000,0000,0000,,The thing with strategy...
+Dialogue: 0,0:13:48.74,0:13:52.65,main arial 20,XY,0000,0000,0000,,is that unless someone laughs and says \Nit's ridiculous upon hearing about it,
+Dialogue: 0,0:13:52.65,0:13:55.72,main arial 20,XY,0000,0000,0000,,it won't be enough to deceive the wise.
+Dialogue: 0,0:13:56.53,0:13:58.46,main arial 20,XY,0000,0000,0000,,Put this hood on.
+Dialogue: 0,0:14:00.32,0:14:01.62,main arial 20,SB,0000,0000,0000,,What is it?
+Dialogue: 0,0:14:06.60,0:14:07.82,main arial 20,SB,0000,0000,0000,,Wh-What the hell?!
+Dialogue: 0,0:14:10.92,0:14:14.33,main arial 20,SB,0000,0000,0000,,Breathe... I can't breathe, man!
+Dialogue: 0,0:14:14.33,0:14:15.91,main arial 20,SB,0000,0000,0000,,What is this?!
+Dialogue: 0,0:14:16.45,0:14:18.64,main arial 20,XY,0000,0000,0000,,Calm down. It won't kill you.
+Dialogue: 0,0:14:26.09,0:14:27.92,main arial 20,XY,0000,0000,0000,,Convenient, isn't it?
+Dialogue: 0,0:14:27.92,0:14:32.55,main arial 20,XY,0000,0000,0000,,Although, unfortunately, all it does is \Nlet someone change their face into mine.
+Dialogue: 0,0:14:32.55,0:14:35.96,main arial 20,XY,0000,0000,0000,,But that's enough to create \Ntwo of Lǐn Xuě Yā.
+Dialogue: 0,0:14:38.56,0:14:40.91,main arial 20,SB,0000,0000,0000,,Well, this is one hell of a thing.
+Dialogue: 0,0:14:40.91,0:14:43.30,main arial 20,SB,0000,0000,0000,,So? Which one of us does what?
+Dialogue: 0,0:14:43.53,0:14:48.17,main arial 20,XY,0000,0000,0000,,The bigger risk lies in luring Miè \NTiān Hái outside of the tower.
+Dialogue: 0,0:14:48.17,0:14:51.84,main arial 20,XY,0000,0000,0000,,That person will need to be prepared \Nto flee, eventually, after all.
+Dialogue: 0,0:14:51.84,0:14:56.04,main arial 20,SB,0000,0000,0000,,But next you're gonna say that the person \Nwho stays at the tower needs to know
+Dialogue: 0,0:14:56.04,0:14:58.22,main arial 20,SB,0000,0000,0000,,how to get into the safe, right?
+Dialogue: 0,0:14:58.22,0:15:01.55,main arial 20,SB,0000,0000,0000,,In other words, I've gotta do the crappy job.
+Dialogue: 0,0:15:01.91,0:15:05.79,main arial 20,XY,0000,0000,0000,,It's a relief to see you're \Nso quick to understand.
+Dialogue: 0,0:15:09.20,0:15:10.84,main arial 20,SB,0000,0000,0000,,Still, though...
+Dialogue: 0,0:15:10.84,0:15:12.40,main arial 20,XY,0000,0000,0000,,Do you have some doubts?
+Dialogue: 0,0:15:12.40,0:15:14.97,main arial 20,SB,0000,0000,0000,,You not caring about the Tiān Xing Jiàn
+Dialogue: 0,0:15:14.97,0:15:18.68,main arial 20,SB,0000,0000,0000,,and saying that you'll be satisfied \Nas long as you dupe Miè Tiān Hái...
+Dialogue: 0,0:15:18.68,0:15:21.45,main arial 20,SB,0000,0000,0000,,When that includes throwing away \Nfive thousand jīn of gold,
+Dialogue: 0,0:15:21.45,0:15:23.67,main arial 20,SB,0000,0000,0000,,it's a little hard to swallow.
+Dialogue: 0,0:15:23.67,0:15:26.27,main arial 20,SB,0000,0000,0000,,Do you have a huge grudge \Nagainst him or something?
+Dialogue: 0,0:15:26.27,0:15:27.48,main arial 20,XY,0000,0000,0000,,Oh, hardly.
+Dialogue: 0,0:15:27.48,0:15:32.57,main arial 20,XY,0000,0000,0000,,I'd never really even spoken to \Nhim before coming to this tower.
+Dialogue: 0,0:15:32.57,0:15:34.15,main arial 20,SB,0000,0000,0000,,Then why?
+Dialogue: 0,0:15:34.52,0:15:36.55,main arial 20,XY,0000,0000,0000,,Well, if I had to put it in words,
+Dialogue: 0,0:15:36.55,0:15:40.82,main arial 20,XY,0000,0000,0000,,it's about how I find meaning in life.
+Dialogue: 0,0:15:42.19,0:15:45.36,main arial 20,XY,0000,0000,0000,,To me, life is about amusement.
+Dialogue: 0,0:15:45.36,0:15:48.44,main arial 20,XY,0000,0000,0000,,And the greatest game in this world...
+Dialogue: 0,0:15:48.44,0:15:54.13,main arial 20,,0000,0000,0000,,is to deceive, manipulate, and outwit \Nsomeone: the game of strategy.
+Dialogue: 0,0:15:55.45,0:15:56.81,main arial 20,,0000,0000,0000,,However,
+Dialogue: 0,0:15:56.81,0:16:01.88,main arial 20,,0000,0000,0000,,it's far too simple to trick the noble \Nand good-natured, so that's no fun at all.
+Dialogue: 0,0:16:01.88,0:16:04.22,main arial 20,,0000,0000,0000,,So if I'm going to deceive someone,\Nlet them be a villain.
+Dialogue: 0,0:16:04.22,0:16:06.76,main arial 20,,0000,0000,0000,,And a cunning, ambitious one at that.
+Dialogue: 0,0:16:06.76,0:16:10.95,main arial 20,,0000,0000,0000,,Someone who's certain he's stronger and \Nsmarter than everyone else is perfect.
+Dialogue: 0,0:16:10.95,0:16:15.12,main arial 20,SB,0000,0000,0000,,In other words, everything is \Njust a game to you, is that it?
+Dialogue: 0,0:16:15.12,0:16:18.09,main arial 20,XY,0000,0000,0000,,The heart of evil often beats in the \Nchest of the childishly sincere.
+Dialogue: 0,0:16:18.09,0:16:20.12,main arial 20,XY,0000,0000,0000,,To take the source of his pride,
+Dialogue: 0,0:16:20.12,0:16:24.35,main arial 20,XY,0000,0000,0000,,and replace the gem of arrogance with \Nthe worthless rock of humiliation...
+Dialogue: 0,0:16:24.77,0:16:28.04,main arial 20,XY,0000,0000,0000,,That speaks to my nature as a thief.
+Dialogue: 0,0:16:28.04,0:16:31.00,main arial 20,XY,0000,0000,0000,,It's the thrill of a lifetime.
+Dialogue: 0,0:16:31.00,0:16:34.24,main arial 20,SB,0000,0000,0000,,So you wanting t take something \Nfrom Miè Tiān Hái?
+Dialogue: 0,0:16:34.24,0:16:35.56,main arial 20,XY,0000,0000,0000,,Yes, that's right.
+Dialogue: 0,0:16:35.56,0:16:39.11,main arial 20,XY,0000,0000,0000,,The Bones of Creation seems to be the \Nexact character I had him pegged as.
+Dialogue: 0,0:16:39.11,0:16:43.97,main arial 20,XY,0000,0000,0000,,Arrogantly calling himself unrivaled after\Ndefeating the Screaming Phoenix Killer...
+Dialogue: 0,0:16:43.97,0:16:45.57,main arial 20,XY,0000,0000,0000,,That makes for an irresistible jewel.
+Dialogue: 0,0:16:45.57,0:16:48.95,main arial 20,XY,0000,0000,0000,,One worthy of being\Nstolen by the Enigmatic Gale.
+Dialogue: 0,0:16:49.58,0:16:53.02,main arial 20,SB,0000,0000,0000,,Then the reason that Xíng Hài and \NShā Wú Shēng hated you so much...
+Dialogue: 0,0:16:53.02,0:16:54.01,main arial 20,SB,0000,0000,0000,,Was it...?
+Dialogue: 0,0:16:54.01,0:16:54.93,main arial 20,XY,0000,0000,0000,,That's right.
+Dialogue: 0,0:16:54.93,0:16:57.74,main arial 20,XY,0000,0000,0000,,They're both the epitome \Nof villainy, and as such,
+Dialogue: 0,0:16:57.74,0:17:00.53,main arial 20,XY,0000,0000,0000,,their arrogance was that \Nmuch greater than average.
+Dialogue: 0,0:17:00.53,0:17:04.36,main arial 20,XY,0000,0000,0000,,Once I stole from them, the loss \Nof their doubt and obsession
+Dialogue: 0,0:17:04.36,0:17:07.88,main arial 20,XY,0000,0000,0000,,was enough to result in those two \Nliving out their days quietly.
+Dialogue: 0,0:17:07.88,0:17:11.75,main arial 20,XY,0000,0000,0000,,If anything, I should probably be \Npraised for doing such a thing.
+Dialogue: 0,0:17:12.28,0:17:13.92,main arial 20,SB,0000,0000,0000,,You're a real piece of work.
+Dialogue: 0,0:17:13.92,0:17:16.58,main arial 20,XY,0000,0000,0000,,So... do you understand?
+Dialogue: 0,0:17:16.58,0:17:21.74,main arial 20,SB,0000,0000,0000,,Yeah, I understand that you're \Nway too crazy to ever understand.
+Dialogue: 0,0:17:21.74,0:17:24.92,main arial 20,SB,0000,0000,0000,,No sane person could figure \Nout what's going on with you,
+Dialogue: 0,0:17:24.92,0:17:27.32,main arial 20,SB,0000,0000,0000,,and you're a genuine, irredeemable crook!
+Dialogue: 0,0:17:29.10,0:17:32.31,main arial 20,XY,0000,0000,0000,,Should I be taking that as a compliment?
+Dialogue: 0,0:17:41.37,0:17:42.97,main arial 20,JC,0000,0000,0000,,Miss Dān Fěi! You okay?
+Dialogue: 0,0:17:42.97,0:17:43.97,main arial 20,DF,0000,0000,0000,,You!
+Dialogue: 0,0:17:45.04,0:17:46.30,main arial 20,JC,0000,0000,0000,,Not so loud.
+Dialogue: 0,0:17:46.91,0:17:50.69,main arial 20,JC,0000,0000,0000,,Well, I doubt anyone is coming, \Nbut it doesn't hurt to be careful.
+Dialogue: 0,0:17:50.69,0:17:52.61,main arial 20,DF,0000,0000,0000,,Huh? Careful about what?
+Dialogue: 0,0:17:57.78,0:18:00.36,main arial 20,JC,0000,0000,0000,,I came to save you.\NLet's get out of here together.
+Dialogue: 0,0:18:00.36,0:18:01.80,main arial 20,DF,0000,0000,0000,,But I thought you...
+Dialogue: 0,0:18:01.80,0:18:04.27,main arial 20,JC,0000,0000,0000,,I've cut ties to Shòu \NYún Xiāo and the others.
+Dialogue: 0,0:18:04.27,0:18:07.21,main arial 20,JC,0000,0000,0000,,I'm not treating that guy as my \Nbig brother or anything else!
+Dialogue: 0,0:18:08.46,0:18:11.54,main arial 20,JC,0000,0000,0000,,The hero I looked up to was a fake.
+Dialogue: 0,0:18:11.54,0:18:15.13,main arial 20,JC,0000,0000,0000,,Which means I have to become \Nthe real deal myself, right?
+Dialogue: 0,0:18:15.13,0:18:18.76,main arial 20,DF,0000,0000,0000,,I had the wrong idea this whole time.
+Dialogue: 0,0:18:18.76,0:18:21.18,main arial 20,DF,0000,0000,0000,,Maybe with someone like you,
+Dialogue: 0,0:18:21.18,0:18:25.61,main arial 20,DF,0000,0000,0000,,I can believe that there is some \Njustice in society at large again.
+Dialogue: 0,0:18:25.61,0:18:28.03,main arial 20,JC,0000,0000,0000,,Whoa, it's not that big a deal!
+Dialogue: 0,0:18:28.03,0:18:31.19,main arial 20,JC,0000,0000,0000,,I mean, I just wanna get famous, remember?
+Dialogue: 0,0:18:32.05,0:18:36.80,main arial 20,DF,0000,0000,0000,,Then the story of the hero who \Nsaved a Hù Yìn Shī in peril...
+Dialogue: 0,0:18:37.37,0:18:41.53,main arial 20,DF,0000,0000,0000,,will be one I tell wherever \NI go, from now on.
+Dialogue: 0,0:18:42.82,0:18:44.92,main arial 20,JC,0000,0000,0000,,The heroic tale of the Frozen \NWonder and his spear!
+Dialogue: 0,0:18:44.92,0:18:49.60,main arial 20,JC,0000,0000,0000,,That sounds like a pretty good opening act!
+Dialogue: 0,0:18:54.17,0:18:55.74,main arial 20,JC,0000,0000,0000,,Come on, let's go.
+Dialogue: 0,0:18:56.05,0:18:57.51,main arial 20,DF,0000,0000,0000,,Wait a moment!
+Dialogue: 0,0:18:58.44,0:19:03.89,main arial 20,DF,0000,0000,0000,,Sir Shāng asked me to remain here until \Nhe retrieved the Tiān Xing Jiàn's handle.
+Dialogue: 0,0:19:04.77,0:19:09.36,main arial 20,JC,0000,0000,0000,,Yeah, now that you mention it,\NI guess he isn't here...
+Dialogue: 0,0:19:09.36,0:19:12.87,main arial 20,JC,0000,0000,0000,,But get it back? What's he gonna do alone?
+Dialogue: 0,0:19:12.87,0:19:16.20,main arial 20,DF,0000,0000,0000,,Well... he says that Lǐn \NXuě Yā will be helping.
+Dialogue: 0,0:19:16.49,0:19:18.95,main arial 20,JC,0000,0000,0000,,What?! That's just stupid!
+Dialogue: 0,0:19:18.95,0:19:22.64,main arial 20,JC,0000,0000,0000,,Lǐn is one of the bad guys who's \Nafter the sword in the first place!
+Dialogue: 0,0:19:23.00,0:19:27.97,main arial 20,JC,0000,0000,0000,,You sure he's not just working with \Nthe big thief to steal the sword?
+Dialogue: 0,0:19:28.28,0:19:32.28,main arial 20,DF,0000,0000,0000,,I don't... want to believe he's \Nthat kind of person, but...
+Dialogue: 0,0:19:32.74,0:19:35.68,main arial 20,JC,0000,0000,0000,,Even if Shāng is playing straight,
+Dialogue: 0,0:19:35.68,0:19:39.99,main arial 20,JC,0000,0000,0000,,that just makes it more likely the \NEnigmatic Gale will trick him into whatever!
+Dialogue: 0,0:19:39.99,0:19:42.77,main arial 20,JC,0000,0000,0000,,It's like a lost sheep asking \Na tiger for directions!
+Dialogue: 0,0:19:42.77,0:19:44.46,main arial 20,DF,0000,0000,0000,,I suppose you're right.
+Dialogue: 0,0:19:44.46,0:19:48.39,main arial 20,JC,0000,0000,0000,,Look, I understand you wanna \Nget your treasure back,
+Dialogue: 0,0:19:48.39,0:19:52.28,main arial 20,JC,0000,0000,0000,,and I'd love to help, but the \Nodds here are just terrible.
+Dialogue: 0,0:19:52.28,0:19:55.26,main arial 20,JC,0000,0000,0000,,There's a bunch of different \Ncrooks on this mountain,
+Dialogue: 0,0:19:55.26,0:19:57.67,main arial 20,JC,0000,0000,0000,,all of them looking for a \Nchance to grab that sword!
+Dialogue: 0,0:19:58.66,0:20:00.31,main arial 20,JC,0000,0000,0000,,Let's run for now.
+Dialogue: 0,0:20:00.31,0:20:02.91,main arial 20,JC,0000,0000,0000,,And then we can get some help \Nfrom another Hù Yìn Shī
+Dialogue: 0,0:20:02.91,0:20:04.01,main arial 20,JC,0000,0000,0000,,and give it another shot, later.
+Dialogue: 0,0:20:04.30,0:20:05.38,main arial 20,DF,0000,0000,0000,,Well...
+Dialogue: 0,0:20:06.08,0:20:09.38,main arial 20,DF,0000,0000,0000,,Right! The guard is still safe.
+Dialogue: 0,0:20:09.38,0:20:13.15,main arial 20,DF,0000,0000,0000,,The one in Miè Tiān Hái's \Nclutches was a forgery.
+Dialogue: 0,0:20:13.15,0:20:15.09,main arial 20,JC,0000,0000,0000,,H-How'd that happen?!
+Dialogue: 0,0:20:15.09,0:20:19.68,main arial 20,DF,0000,0000,0000,,The true guard to the Tiān Xing \NJiàn is hidden at Limitless Temple.
+Dialogue: 0,0:20:19.68,0:20:22.43,main arial 20,DF,0000,0000,0000,,If we can retrieve it first,
+Dialogue: 0,0:20:22.43,0:20:25.60,main arial 20,DF,0000,0000,0000,,we can ensure the sword does not \Nfall into the hands of evil.
+Dialogue: 0,0:20:25.60,0:20:31.27,main arial 20,JC,0000,0000,0000,,I'm not sure I get it but... that means \Nwe have a chance to turn this around.
+Dialogue: 0,0:20:31.27,0:20:36.04,main arial 20,JC,0000,0000,0000,,Okay! All the more reason to get \Ndown off this mountain, and quick!
+Dialogue: 0,0:20:36.44,0:20:38.26,main arial 20,DF,0000,0000,0000,,But how?
+Dialogue: 0,0:20:38.77,0:20:41.31,main arial 20,DF,0000,0000,0000,,Without Shā Wú Shēng's flute,
+Dialogue: 0,0:20:41.31,0:20:44.51,main arial 20,DF,0000,0000,0000,,there's no way to cross \Nthe Labyrinth of Darkness.
+Dialogue: 0,0:20:44.51,0:20:48.63,main arial 20,JC,0000,0000,0000,,It's okay! When we were going through \Nthe Labyrinth with the flute,
+Dialogue: 0,0:20:48.63,0:20:51.70,main arial 20,JC,0000,0000,0000,,I made a few markings to show the way.
+Dialogue: 0,0:20:51.70,0:20:53.81,main arial 20,JC,0000,0000,0000,,We shouldn't get lost on the way back.
+Dialogue: 0,0:20:53.81,0:20:57.86,main arial 20,DF,0000,0000,0000,,You seem like you are \Ncompletely thoughtless.
+Dialogue: 0,0:20:57.86,0:21:00.18,main arial 20,DF,0000,0000,0000,,But you are actually quite considerate.
+Dialogue: 0,0:21:01.62,0:21:04.87,main arial 20,JC,0000,0000,0000,,I guess I'll take that as a compliment!
+Dialogue: 0,0:21:17.53,0:21:21.12,main arial 20,DM,0000,0000,0000,,Sir Lǐn, we're ready to depart.
+Dialogue: 0,0:21:21.12,0:21:23.79,main arial 20,DM,0000,0000,0000,,The master is waiting for you.
+Dialogue: 0,0:21:23.79,0:21:27.11,main arial 20,XY,0000,0000,0000,,Oh, of all the timing...
+Dialogue: 0,0:21:27.11,0:21:28.66,main arial 20,DM,0000,0000,0000,,Is something the matter?
+Dialogue: 0,0:21:28.66,0:21:33.21,main arial 20,XY,0000,0000,0000,,Sadly, I managed to tear my clothes, and \Nnow I don't have the time to repair them.
+Dialogue: 0,0:21:33.21,0:21:37.93,main arial 20,XY,0000,0000,0000,,I'm sorry, but could you get \Nme something else to wear?
+Dialogue: 0,0:21:37.93,0:21:39.37,main arial 20,DM,0000,0000,0000,,Right away.
+Dialogue: 0,0:21:46.08,0:21:48.33,main arial 20,DM,0000,0000,0000,,I'll leave the clothes here,
+Dialogue: 0,0:21:48.33,0:21:50.73,main arial 20,DM,0000,0000,0000,,so if you could, please get ready quickly.
+Dialogue: 0,0:21:50.73,0:21:51.93,main arial 20,XY,0000,0000,0000,,Thank you.
+Dialogue: 0,0:21:56.81,0:21:58.91,main arial 20,SB,0000,0000,0000,,All right, time to do this.
+Dialogue: 0,0:21:59.37,0:22:02.32,main arial 20,XY,0000,0000,0000,,Those clothes are a little too obvious...
+Dialogue: 0,0:22:02.32,0:22:04.56,main arial 20,XY,0000,0000,0000,,Switch into these clothes first.
+Dialogue: 0,0:22:04.56,0:22:05.59,main arial 20,SB,0000,0000,0000,,Got it.
+Dialogue: 0,0:22:16.31,0:22:20.04,main arial 20,SB,0000,0000,0000,,This hood makes my shoulders stiff.
+Dialogue: 0,0:22:20.04,0:22:22.60,main arial 20,XY,0000,0000,0000,,You never run out of complaints, do you?
+Dialogue: 0,0:22:22.60,0:22:25.68,main arial 20,SB,0000,0000,0000,,What do I do once Miè hands over the gold?
+Dialogue: 0,0:22:26.13,0:22:31.40,main arial 20,XY,0000,0000,0000,,Whatever you like. Just try and get \Nthem to chase you as far as possible.
+Dialogue: 0,0:22:31.40,0:22:34.39,main arial 20,XY,0000,0000,0000,,By the time they realize what's \Ngoing on, I'll have finished my job,
+Dialogue: 0,0:22:34.39,0:22:36.56,main arial 20,XY,0000,0000,0000,,and fled the Demon Spine Mountains.
+Dialogue: 0,0:22:36.98,0:22:42.51,main arial 20,SB,0000,0000,0000,,When you do, make sure you \Ntake Dān Fěi with you!
+Dialogue: 0,0:22:42.51,0:22:44.30,main arial 20,SB,0000,0000,0000,,You got that?
+Dialogue: 0,0:22:44.30,0:22:46.01,main arial 20,XY,0000,0000,0000,,Lady Dān Fěi...
+Dialogue: 0,0:22:47.04,0:22:50.17,main arial 20,XY,0000,0000,0000,,Here's hoping she hasn't \Nbecome demon bird food yet.
+Dialogue: 0,0:22:54.55,0:22:56.07,main arial 20,XY,0000,0000,0000,,I'm just joking!
+Dialogue: 0,0:22:56.07,0:22:59.34,main arial 20,XY,0000,0000,0000,,Who reacts to jest\Nwith bloodlust? Honestly...
+Dialogue: 0,0:23:00.08,0:23:04.06,main arial 20,SB,0000,0000,0000,,We've a sweet young girl \Ntrapped, cold, and hungry!
+Dialogue: 0,0:23:04.06,0:23:06.23,main arial 20,SB,0000,0000,0000,,I don't find that funny!
+Dialogue: 0,0:23:06.23,0:23:08.89,main arial 20,XY,0000,0000,0000,,You are quite the character.
+Dialogue: 0,0:23:08.89,0:23:13.57,main arial 20,XY,0000,0000,0000,,For all your attempts to seem aloof, \Nyou can't hide your kind nature.
+Dialogue: 0,0:23:13.57,0:23:15.36,main arial 20,SB,0000,0000,0000,,Man, shut up!
+Dialogue: 0,0:23:15.36,0:23:18.27,main arial 20,SB,0000,0000,0000,,All right, I'm going. Don't screw this up!
+Dialogue: 0,0:23:18.27,0:23:19.98,main arial 20,XY,0000,0000,0000,,Let's hope neither of us does.
+Dialogue: 0,0:23:32.60,0:23:33.83,main arial 20,SB,0000,0000,0000,,Now, then...
+Dialogue: 0,0:23:39.95,0:23:49.96,Next Episode Title,Eptitle Sign,0000,0000,0000,,Next Time  "A Proud Life"
+Dialogue: 0,0:23:41.05,0:23:45.49,italics arial 20,Nar,0000,0000,0000,,In pursuit of fame and fortune,\None finds himself in a barren wilderness.
+Dialogue: 0,0:23:45.49,0:23:47.57,italics arial 20,Nar,0000,0000,0000,,Where does the shining star that once
+Dialogue: 0,0:23:47.57,0:23:49.96,italics arial 20,Nar,0000,0000,0000,,inspired such passion sit in\Nthe vast darkness of the sky?

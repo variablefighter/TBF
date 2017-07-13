@@ -1,0 +1,370 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: main arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: main arial top 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,8,0,0,28,0
+Style: italics arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,1,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: italics top arial 20,Calibri,40,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,1,0,0,100,100,0,0,1,1.8,0,8,0,0,28,0
+Style: main arial subs,Calibri,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.8,0,2,0,0,28,0
+Style: Episode Title,Calibri,48,&H009FD5F6,&H000000FF,&H002E77A6,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,27,27,284,1
+Style: Next Episode Title,Calibri,40,&H00000000,&H000000FF,&H00D5CCC9,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,27,27,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:01:31.95,0:01:36.79,Episode Title,Eptitle Sign,0000,0000,0000,,{\fad(500,500)}Episode 3: The Woman In Night Devil Forest
+Dialogue: 0,0:01:38.64,0:01:42.91,main arial 20,SY,0000,0000,0000,,I ask you again: are you Shāng Bù Huàn?
+Dialogue: 0,0:01:43.54,0:01:45.01,main arial 20,BH,0000,0000,0000,,And what if I am?
+Dialogue: 0,0:02:01.20,0:02:04.10,main arial 20,JS,0000,0000,0000,,Hey, bro! Good work out there.
+Dialogue: 0,0:02:05.18,0:02:10.29,main arial 20,SY,0000,0000,0000,,I wouldn't have bothered if you \Nhad handled things yourself, Juǎn.
+Dialogue: 0,0:02:10.29,0:02:12.59,main arial 20,JS,0000,0000,0000,,Aw, you've got me there!
+Dialogue: 0,0:02:12.59,0:02:15.64,main arial 20,JS,0000,0000,0000,,But since our friend here is in one piece...
+Dialogue: 0,0:02:16.59,0:02:20.04,main arial 20,BH,0000,0000,0000,,Hey, how about someone explain \Nwhat the hell's going on?
+Dialogue: 0,0:02:20.04,0:02:23.32,main arial 20,BH,0000,0000,0000,,Why are you guys fighting the \NXuán Guǐ Zōng on my behalf?
+Dialogue: 0,0:02:23.97,0:02:26.46,main arial 20,SY,0000,0000,0000,,I received a message from an acquaintance.
+Dialogue: 0,0:02:27.01,0:02:29.55,main arial 20,SY,0000,0000,0000,,"If you encounter Shāng Bù Huàn,
+Dialogue: 0,0:02:29.55,0:02:32.08,main arial 20,SY,0000,0000,0000,,help him out," he asked.
+Dialogue: 0,0:02:34.44,0:02:37.72,main arial 20,BH,0000,0000,0000,,What kind of friend is this guy
+Dialogue: 0,0:02:37.72,0:02:39.27,main arial 20,BH,0000,0000,0000,,if you'll fight to the \Ndeath at his request?
+Dialogue: 0,0:02:39.27,0:02:43.87,main arial 20,XY,0000,0000,0000,,Why, it's me, of course.\NDoes anyone else come to mind?
+Dialogue: 0,0:02:47.49,0:02:51.26,main arial 20,SY,0000,0000,0000,,We meet again. What are \Nyou calling yourself now?
+Dialogue: 0,0:02:52.18,0:02:55.18,main arial 20,XY,0000,0000,0000,,If you could, go with Guǐ Niǎo for now.
+Dialogue: 0,0:02:55.18,0:02:56.37,main arial 20,SY,0000,0000,0000,,Understood.
+Dialogue: 0,0:02:56.96,0:02:59.99,main arial 20,SY,0000,0000,0000,,And you'll be in charge, as usual.
+Dialogue: 0,0:03:01.01,0:03:02.41,main arial 20,XY,0000,0000,0000,,Thank you.
+Dialogue: 0,0:03:02.82,0:03:05.65,main arial 20,XY,0000,0000,0000,,I must ask, who's this young fellow?
+Dialogue: 0,0:03:06.81,0:03:10.85,main arial 20,SY,0000,0000,0000,,He's been helping me out lately. \NHis name is Juǎn Cán Yún.
+Dialogue: 0,0:03:10.85,0:03:14.44,main arial 20,SY,0000,0000,0000,,I thought he might be of some use,\Nso I brought him along.
+Dialogue: 0,0:03:14.98,0:03:16.57,main arial 20,JS,0000,0000,0000,,Hey there!
+Dialogue: 0,0:03:16.57,0:03:21.02,main arial 20,JS,0000,0000,0000,,If my bro Shòu here takes orders \Nfrom you, then count me in, too.
+Dialogue: 0,0:03:21.02,0:03:22.80,main arial 20,JS,0000,0000,0000,,Good to be working with you!
+Dialogue: 0,0:03:25.76,0:03:28.51,main arial 20,DF,0000,0000,0000,,I am a Hù Yìn Shī guardian \Nof the Duàn Jiàn Cí shrine,
+Dialogue: 0,0:03:28.95,0:03:30.81,main arial 20,DF,0000,0000,0000,,my name is Dān Fěi.
+Dialogue: 0,0:03:30.81,0:03:33.22,main arial 20,DF,0000,0000,0000,,It's a pleasure to meet you both.
+Dialogue: 0,0:03:34.74,0:03:37.08,main arial 20,JS,0000,0000,0000,,Whoa... she's so beautiful!
+Dialogue: 0,0:03:37.91,0:03:39.06,main arial 20,JS,0000,0000,0000,,A celestial maiden?
+Dialogue: 0,0:03:41.56,0:03:44.01,main arial 20,BH,0000,0000,0000,,Whoa, hang on! Just hang on a second!
+Dialogue: 0,0:03:44.01,0:03:47.40,main arial 20,BH,0000,0000,0000,,Quit trying to move this \Nconversation along without me!
+Dialogue: 0,0:03:47.40,0:03:52.30,main arial 20,XY,0000,0000,0000,,I'm sure you've realized now how \Nthe Xuán Guǐ Zōng operate.
+Dialogue: 0,0:03:52.30,0:03:56.73,main arial 20,XY,0000,0000,0000,,They're not a pleasant bunch you can \Navoid by simply running from them.
+Dialogue: 0,0:03:56.73,0:03:57.78,main arial 20,BH,0000,0000,0000,,Yeah...
+Dialogue: 0,0:03:57.78,0:04:02.28,main arial 20,BH,0000,0000,0000,,I guess I've just gotta take down their \Nleader, this Miè Tiān Hái, right?
+Dialogue: 0,0:04:02.85,0:04:07.50,main arial 20,BH,0000,0000,0000,,That'll turn these guys who are just \Nhis lapdogs into a unorganized mob.
+Dialogue: 0,0:04:08.01,0:04:11.48,main arial 20,XY,0000,0000,0000,,And do you know where \Nwhere Miè Tiān Hái is?
+Dialogue: 0,0:04:13.83,0:04:17.79,main arial 20,XY,0000,0000,0000,,We are about to head to the \Ndomain of the Xuán Guǐ Zōng,
+Dialogue: 0,0:04:17.79,0:04:20.76,main arial 20,XY,0000,0000,0000,,Seven Sins Tower in the \NDemon Spine Mountains.
+Dialogue: 0,0:04:21.34,0:04:23.16,main arial 20,XY,0000,0000,0000,,Our enemies, many.
+Dialogue: 0,0:04:23.85,0:04:26.73,main arial 20,XY,0000,0000,0000,,Meaning the more allies we have, the better.
+Dialogue: 0,0:04:27.70,0:04:32.61,main arial 20,XY,0000,0000,0000,,If our goals are aligned, there's \Nno reason for us not to be allied.
+Dialogue: 0,0:04:32.84,0:04:34.78,main arial 20,BH,0000,0000,0000,,I don't care what your goal is!
+Dialogue: 0,0:04:34.78,0:04:37.97,main arial 20,BH,0000,0000,0000,,And this can be settled if I head \Nto this Seven Sins Tower on my own.
+Dialogue: 0,0:04:37.97,0:04:41.19,main arial 20,BH,0000,0000,0000,,No matter what, I'm not \Nworking with you! See ya!
+Dialogue: 0,0:04:45.69,0:04:49.30,main arial 20,XY,0000,0000,0000,,Oh, proud, obstinate Sir Shāng Bù Huàn...
+Dialogue: 0,0:04:49.30,0:04:52.31,main arial 20,XY,0000,0000,0000,,I hate to break this to you, but...
+Dialogue: 0,0:04:52.31,0:04:53.85,main arial 20,BH,0000,0000,0000,,What now?
+Dialogue: 0,0:04:53.85,0:04:56.57,main arial 20,XY,0000,0000,0000,,The Demon Spine Mountains \Nare in that direction.
+Dialogue: 0,0:05:09.54,0:05:11.11,main arial 20,BH,0000,0000,0000,,Don't try following me, got it?!
+Dialogue: 0,0:05:11.11,0:05:15.90,main arial 20,DF,0000,0000,0000,,Uh, sir, our business is in \Nthe same direction, so...
+Dialogue: 0,0:05:17.71,0:05:19.25,main arial 20,SY,0000,0000,0000,,Funny confidence, isn't it?
+Dialogue: 0,0:05:19.25,0:05:22.07,main arial 20,SY,0000,0000,0000,,Looks like we're on the same road for now.
+Dialogue: 0,0:05:22.07,0:05:26.24,main arial 20,JS,0000,0000,0000,,We don't mind you tagging along, though.
+Dialogue: 0,0:05:26.93,0:05:28.56,main arial 20,BH,0000,0000,0000,,Do whatever you want!
+Dialogue: 0,0:05:42.83,0:05:45.01,main arial 20,XY,0000,0000,0000,,The Demon Spine Mountains, where Seven \NSins Tower stands, is at the border
+Dialogue: 0,0:05:45.01,0:05:47.35,main arial 20,XY,0000,0000,0000,,of the human and demon realms.
+Dialogue: 0,0:05:47.35,0:05:50.78,main arial 20,XY,0000,0000,0000,,It is a land that can be said \Nto be part of the afterlife.
+Dialogue: 0,0:05:50.78,0:05:53.69,main arial 20,XY,0000,0000,0000,,People in the area don't even \Nrisk looking in its direction,
+Dialogue: 0,0:05:53.69,0:05:57.06,main arial 20,XY,0000,0000,0000,,much less traveling there.
+Dialogue: 0,0:05:58.00,0:06:02.76,main arial 20,JS,0000,0000,0000,,Sounds like a weird place \Nto set up an organization.
+Dialogue: 0,0:06:02.76,0:06:08.79,main arial 20,XY,0000,0000,0000,,Seven Sins Tower was originally \Nthe study of a powerful sorcerer.
+Dialogue: 0,0:06:08.79,0:06:14.01,main arial 20,XY,0000,0000,0000,,Miè Tiān Hái was once a simple \Nguard there when he was young,
+Dialogue: 0,0:06:14.01,0:06:18.88,main arial 20,XY,0000,0000,0000,,but in the master's absence, he has made \Nthe abandoned tower his personal property.
+Dialogue: 0,0:06:20.50,0:06:24.57,main arial 20,SY,0000,0000,0000,,What are the odds this master ended \Nup dying at Miè's hands himself?
+Dialogue: 0,0:06:24.57,0:06:26.79,main arial 20,XY,0000,0000,0000,,A very likely theory.
+Dialogue: 0,0:06:26.79,0:06:29.65,main arial 20,XY,0000,0000,0000,,Miè didn't just take the tower,\Nbut also the knowledge
+Dialogue: 0,0:06:29.65,0:06:32.88,main arial 20,XY,0000,0000,0000,,of several spells his master knew,\N and made them his own.
+Dialogue: 0,0:06:32.88,0:06:38.11,main arial 20,XY,0000,0000,0000,,For instance, the ability to drain \Nmemories from the heads of the dead.
+Dialogue: 0,0:06:38.78,0:06:42.50,main arial 20,BH,0000,0000,0000,,I guess that's why they knew \Nmy name and what I looked like.
+Dialogue: 0,0:06:43.65,0:06:45.31,main arial 20,XY,0000,0000,0000,,The real problem is that
+Dialogue: 0,0:06:45.31,0:06:50.51,main arial 20,XY,0000,0000,0000,,the barrier the sorcerer erected to \Nprotect the mountain is still intact.
+Dialogue: 0,0:06:50.51,0:06:53.44,main arial 20,XY,0000,0000,0000,,The only real way to its summit is \Nguarded by three extraordinary obstacles
+Dialogue: 0,0:06:53.44,0:06:57.45,main arial 20,XY,0000,0000,0000,,which ensure that no ordinary \Npeople could ever reach it.
+Dialogue: 0,0:06:57.45,0:07:01.89,main arial 20,BH,0000,0000,0000,,How are the Xuán Guǐ Zōng \Ngetting in and out of it, then?
+Dialogue: 0,0:07:01.89,0:07:03.14,main arial 20,XY,0000,0000,0000,,Through the air.
+Dialogue: 0,0:07:03.14,0:07:06.01,main arial 20,XY,0000,0000,0000,,You saw the flying beasts \Nthey were using, right?
+Dialogue: 0,0:07:06.01,0:07:10.45,main arial 20,XY,0000,0000,0000,,They are the only way to move freely \Nto and from Seven Sins Tower.
+Dialogue: 0,0:07:10.45,0:07:12.90,main arial 20,JS,0000,0000,0000,,I guess if you have to fly to get in,
+Dialogue: 0,0:07:12.90,0:07:15.63,main arial 20,JS,0000,0000,0000,,that's about as secure as it gets.
+Dialogue: 0,0:07:15.86,0:07:18.54,main arial 20,BH,0000,0000,0000,,Then what are we supposed to do?
+Dialogue: 0,0:07:18.54,0:07:22.04,main arial 20,BH,0000,0000,0000,,You expect us to grow wings,\Nlike those beasts?
+Dialogue: 0,0:07:22.40,0:07:24.77,main arial 20,XY,0000,0000,0000,,We use extraordinary methods \Nto make our way along
+Dialogue: 0,0:07:24.77,0:07:26.92,main arial 20,XY,0000,0000,0000,,the ground past the extraordinary obstacles.
+Dialogue: 0,0:07:26.92,0:07:29.06,main arial 20,XY,0000,0000,0000,,It's our only path to victory.
+Dialogue: 0,0:07:29.06,0:07:30.49,main arial 20,BH,0000,0000,0000,,Come on, seriously?
+Dialogue: 0,0:07:30.49,0:07:35.38,main arial 20,XY,0000,0000,0000,,As I explained, there are three obstacles \Npreventing access to the summit.
+Dialogue: 0,0:07:35.81,0:07:39.19,main arial 20,XY,0000,0000,0000,,The first is the Valley of the Dead.
+Dialogue: 0,0:07:39.41,0:07:42.60,main arial 20,XY,0000,0000,0000,,Corpses whose souls are chained \Nto their bodies in death
+Dialogue: 0,0:07:42.60,0:07:45.05,main arial 20,XY,0000,0000,0000,,roam the area in mobs.
+Dialogue: 0,0:07:45.69,0:07:49.01,main arial 20,XY,0000,0000,0000,,They hunger for the flesh \Nand blood of the living.
+Dialogue: 0,0:07:49.01,0:07:52.22,main arial 20,XY,0000,0000,0000,,Being found by them will \Nresult in being torn apart.
+Dialogue: 0,0:07:52.95,0:07:55.20,main arial 20,SY,0000,0000,0000,,What do we do, then?
+Dialogue: 0,0:07:55.69,0:08:00.34,main arial 20,XY,0000,0000,0000,,There is a special requiem for the \Ndead that a necromancer can perform,
+Dialogue: 0,0:08:00.34,0:08:03.78,main arial 20,XY,0000,0000,0000,,which will stop corpses from moving,\Nputting them to rest.
+Dialogue: 0,0:08:03.78,0:08:10.50,main arial 20,XY,0000,0000,0000,,So in order to cross this valley, we need\Nto add a necromancer to our number.
+Dialogue: 0,0:08:11.22,0:08:12.71,main arial 20,DF,0000,0000,0000,,Necromancy...
+Dialogue: 0,0:08:12.71,0:08:16.43,main arial 20,DF,0000,0000,0000,,Must we truly rely on such dreadful methods?
+Dialogue: 0,0:08:16.43,0:08:19.35,main arial 20,XY,0000,0000,0000,,I can understand your distaste, \Nas a Hù Yìn Shī.
+Dialogue: 0,0:08:19.35,0:08:24.74,main arial 20,XY,0000,0000,0000,,But we are trying to enter an evil place,\Nwhere ordinary means will not suffice.
+Dialogue: 0,0:08:24.74,0:08:28.17,main arial 20,XY,0000,0000,0000,,We have no choice but to \Nfollow the laws of the land.
+Dialogue: 0,0:08:28.67,0:08:31.27,main arial 20,SY,0000,0000,0000,,But do you have anyone in mind?
+Dialogue: 0,0:08:31.80,0:08:34.57,main arial 20,XY,0000,0000,0000,,Let's just say that it \Nshouldn't be a concern.
+Dialogue: 0,0:08:34.57,0:08:37.74,main arial 20,XY,0000,0000,0000,,In the meantime, we'll continue \Ndiscussing the Demon Spine Mountains.
+Dialogue: 0,0:08:38.21,0:08:40.89,main arial 20,XY,0000,0000,0000,,The second obstacle is \Nthe Valley of the Doll.
+Dialogue: 0,0:08:40.89,0:08:45.69,main arial 20,XY,0000,0000,0000,,A castle-sized, animated stone \Ndoll serves as its guardian.
+Dialogue: 0,0:08:45.69,0:08:48.12,main arial 20,XY,0000,0000,0000,,It ordinarily looks like a statue,
+Dialogue: 0,0:08:48.12,0:08:50.85,main arial 20,XY,0000,0000,0000,,but when it detects trespassers, \Nit begins to move,
+Dialogue: 0,0:08:50.85,0:08:53.33,main arial 20,XY,0000,0000,0000,,attempting to crush them mercilessly.
+Dialogue: 0,0:08:53.33,0:08:56.17,main arial 20,BH,0000,0000,0000,,Someone valued their security too damn much.
+Dialogue: 0,0:08:56.17,0:09:00.04,main arial 20,XY,0000,0000,0000,,Thankfully, it's little more \Nthan an elaborate trap.
+Dialogue: 0,0:09:00.04,0:09:03.06,main arial 20,XY,0000,0000,0000,,If it were a true giant, there'd \Nbe little we could do...
+Dialogue: 0,0:09:03.06,0:09:06.54,main arial 20,XY,0000,0000,0000,,But if it's being animated mechanically, \Nthen its power must have a source.
+Dialogue: 0,0:09:07.85,0:09:10.01,main arial 20,BH,0000,0000,0000,,So we've gotta smash its power source.
+Dialogue: 0,0:09:10.01,0:09:12.55,main arial 20,BH,0000,0000,0000,,But how easy will it be for us to get to it?
+Dialogue: 0,0:09:12.83,0:09:15.59,main arial 20,XY,0000,0000,0000,,It's in the nape of the \Nstone guardian's neck.
+Dialogue: 0,0:09:15.59,0:09:19.21,main arial 20,XY,0000,0000,0000,,Not a height one could easily reach,\Neven when stretching...
+Dialogue: 0,0:09:20.11,0:09:21.57,main arial 20,JC,0000,0000,0000,,What do we do, then?
+Dialogue: 0,0:09:21.57,0:09:25.45,main arial 20,XY,0000,0000,0000,,It is a height that the Sharp-Eyed \NImpaler might land an arrow upon, though.
+Dialogue: 0,0:09:25.45,0:09:26.66,main arial 20,XY,0000,0000,0000,,In other words...
+Dialogue: 0,0:09:26.99,0:09:30.56,main arial 20,SY,0000,0000,0000,,If an arrow can reach it, then I can hit it.
+Dialogue: 0,0:09:30.56,0:09:33.27,main arial 20,SY,0000,0000,0000,,Which explains my invitation on this quest.
+Dialogue: 0,0:09:33.70,0:09:34.67,main arial 20,XY,0000,0000,0000,,Precisely.
+Dialogue: 0,0:09:35.03,0:09:39.54,main arial 20,XY,0000,0000,0000,,You are our key to passing \Nthis second obstacle.
+Dialogue: 0,0:09:40.45,0:09:43.57,main arial 20,XY,0000,0000,0000,,That leaves the third and final obstacle.
+Dialogue: 0,0:09:43.57,0:09:46.32,main arial 20,XY,0000,0000,0000,,It is known as the Labyrinth of Darkness.
+Dialogue: 0,0:09:46.32,0:09:47.79,main arial 20,XY,0000,0000,0000,,With the exception of the actual exit,
+Dialogue: 0,0:09:47.79,0:09:50.68,main arial 20,XY,0000,0000,0000,,it has countless paths that lead \Nto separate, warped dimensions.
+Dialogue: 0,0:09:50.68,0:09:54.36,main arial 20,XY,0000,0000,0000,,Meaning that stepping off \Nthe correct path, even once,
+Dialogue: 0,0:09:54.36,0:09:58.61,main arial 20,XY,0000,0000,0000,,will leave you trapped for eternity, \Nbefore you even realize it.
+Dialogue: 0,0:09:58.61,0:10:02.26,main arial 20,BH,0000,0000,0000,,That sounds even more \Nhopeless than the other two!
+Dialogue: 0,0:10:02.26,0:10:04.87,main arial 20,XY,0000,0000,0000,,Fight magic with magic, my friend.
+Dialogue: 0,0:10:04.87,0:10:09.35,main arial 20,XY,0000,0000,0000,,An acquaintance of mine has a treasure \Nknown as the Soul Echo Flute.
+Dialogue: 0,0:10:09.35,0:10:11.69,main arial 20,XY,0000,0000,0000,,By following the echo \Nof the sound it produces,
+Dialogue: 0,0:10:11.69,0:10:15.81,main arial 20,XY,0000,0000,0000,,this magic flute will always \Nlead you in the right direction.
+Dialogue: 0,0:10:15.81,0:10:18.41,main arial 20,XY,0000,0000,0000,,We'll be asking for\Nhis help with this obstacle.
+Dialogue: 0,0:10:19.24,0:10:22.17,main arial 20,BH,0000,0000,0000,,And in every single case, you're counting \Non someone else to solve the problem.
+Dialogue: 0,0:10:22.17,0:10:24.73,main arial 20,BH,0000,0000,0000,,You never do anything yourself, do you?
+Dialogue: 0,0:10:24.73,0:10:27.46,main arial 20,BH,0000,0000,0000,,It takes an appreciation for \Nsomeone's abilities to know
+Dialogue: 0,0:10:27.46,0:10:29.54,main arial 20,BH,0000,0000,0000,,which tasks suit them best.
+Dialogue: 0,0:10:29.54,0:10:33.42,main arial 20,BH,0000,0000,0000,,I'd rather you compliment my \Nwealth of wonderful friends.
+Dialogue: 0,0:10:33.69,0:10:34.66,main arial 20,JC,0000,0000,0000,,You've certainly got that.
+Dialogue: 0,0:10:35.60,0:10:38.60,main arial 20,XY,0000,0000,0000,,The owner of the Soul Echo Flute \Nis far away at the moment,
+Dialogue: 0,0:10:38.60,0:10:40.52,main arial 20,XY,0000,0000,0000,,so it will be a while until \Nthey receive my message.
+Dialogue: 0,0:10:41.03,0:10:45.99,main arial 20,XY,0000,0000,0000,,The necromancer who can use the \Nrequiem is in the local area, but...
+Dialogue: 0,0:10:45.99,0:10:47.94,main arial 20,XY,0000,0000,0000,,There's been no response yet.
+Dialogue: 0,0:10:48.44,0:10:53.12,main arial 20,BH,0000,0000,0000,,They're probably just \Nsick of dealing with you.
+Dialogue: 0,0:10:53.12,0:10:54.44,main arial 20,XY,0000,0000,0000,,That would be a problem...
+Dialogue: 0,0:10:54.74,0:10:59.46,main arial 20,XY,0000,0000,0000,,It would be for the best to have her help in \Npassing through the Valley of the Dead.
+Dialogue: 0,0:10:59.46,0:11:03.42,main arial 20,XY,0000,0000,0000,,If she won't answer, we'll have \Nto go to her and convince her.
+Dialogue: 0,0:11:03.42,0:11:05.74,main arial 20,BH,0000,0000,0000,,Her? It's a woman?
+Dialogue: 0,0:11:06.20,0:11:09.87,main arial 20,SY,0000,0000,0000,,Hold on! And you said she lives nearby.
+Dialogue: 0,0:11:09.87,0:11:12.59,main arial 20,SY,0000,0000,0000,,You're not talking about \NNight Devil Forest, are you?
+Dialogue: 0,0:11:12.59,0:11:17.15,main arial 20,XY,0000,0000,0000,,Yes. She's been cooped up in \Nthat forest for a long time.
+Dialogue: 0,0:11:17.15,0:11:19.76,main arial 20,XY,0000,0000,0000,,She's never been very sociable, after all.
+Dialogue: 0,0:11:19.76,0:11:21.09,main arial 20,SY,0000,0000,0000,,You're talking about Xíng Hài?
+Dialogue: 0,0:11:21.09,0:11:24.92,main arial 20,SY,0000,0000,0000,,You intend to add Xíng Hài,\Nthe Night's Lament, to this group?
+Dialogue: 0,0:11:24.92,0:11:28.24,main arial 20,JC,0000,0000,0000,,That sounds like crazy talk!
+Dialogue: 0,0:11:28.24,0:11:29.32,main arial 20,BH,0000,0000,0000,,Wait...
+Dialogue: 0,0:11:29.32,0:11:33.15,main arial 20,BH,0000,0000,0000,,You two know this Xíng Hài lady?
+Dialogue: 0,0:11:33.15,0:11:35.15,main arial 20,DF,0000,0000,0000,,What is she like?
+Dialogue: 0,0:11:35.92,0:11:38.22,main arial 20,XY,0000,0000,0000,,Well, she's not the most \Nsocially well-adjusted woman,
+Dialogue: 0,0:11:38.22,0:11:41.20,main arial 20,XY,0000,0000,0000,,so she tends to invite misunderstandings.
+Dialogue: 0,0:11:41.20,0:11:45.05,main arial 20,JC,0000,0000,0000,,No, no, no! This goes way \Nbeyond misunderstandings!
+Dialogue: 0,0:11:45.05,0:11:47.63,main arial 20,SY,0000,0000,0000,,Surely we can find someone \Nelse with the spiritual power
+Dialogue: 0,0:11:47.63,0:11:49.98,main arial 20,SY,0000,0000,0000,,to silence the dead elsewhere, \Nif we look for them!
+Dialogue: 0,0:11:49.98,0:11:52.47,main arial 20,SY,0000,0000,0000,,Why in the world would we ask Xíng Hài?
+Dialogue: 0,0:11:52.76,0:11:56.02,main arial 20,XY,0000,0000,0000,,Because she's the best at it.
+Dialogue: 0,0:11:56.02,0:11:59.54,main arial 20,XY,0000,0000,0000,,Much like how the Sharp-Eyed \NImpaler's archery is the best.
+Dialogue: 0,0:12:00.73,0:12:04.88,main arial 20,XY,0000,0000,0000,,These objectives needs to be handled by \Nthe best of their respective fields.
+Dialogue: 0,0:12:04.88,0:12:08.26,main arial 20,XY,0000,0000,0000,,After all, we face the Bones of Creation.
+Dialogue: 0,0:12:08.26,0:12:11.96,main arial 20,XY,0000,0000,0000,,We need a number of people who \Nare as prepared as possible.
+Dialogue: 0,0:12:11.96,0:12:15.47,main arial 20,JC,0000,0000,0000,,I guess when you put it that way...
+Dialogue: 0,0:12:15.47,0:12:18.63,main arial 20,SY,0000,0000,0000,,Just for the record, I warned you!
+Dialogue: 0,0:12:25.11,0:12:26.47,main arial 20,BH,0000,0000,0000,,It's open.
+Dialogue: 0,0:12:31.84,0:12:33.85,main arial 20,BH,0000,0000,0000,,What brings you by this late?
+Dialogue: 0,0:12:33.85,0:12:36.58,main arial 20,DF,0000,0000,0000,,I thought that if I offered \Na reasonable explanation,
+Dialogue: 0,0:12:36.58,0:12:40.83,main arial 20,DF,0000,0000,0000,,you might understand why we \Nmust do this, Sir Shāng.
+Dialogue: 0,0:12:40.83,0:12:44.82,main arial 20,DF,0000,0000,0000,,And the importance of the Tiān Xing Jiàn...
+Dialogue: 0,0:12:45.12,0:12:47.32,main arial 20,BH,0000,0000,0000,,This again?
+Dialogue: 0,0:12:47.32,0:12:48.52,main arial 20,DF,0000,0000,0000,,Could it be that...
+Dialogue: 0,0:12:48.95,0:12:53.49,main arial 20,DF,0000,0000,0000,,You don't believe how fearsome it is?
+Dialogue: 0,0:12:54.25,0:12:58.82,main arial 20,DF,0000,0000,0000,,And that we Hù Yìn Shī \Nprotect its resting place
+Dialogue: 0,0:12:58.82,0:13:02.43,main arial 20,DF,0000,0000,0000,,is a mere superstition?
+Dialogue: 0,0:13:02.43,0:13:04.98,main arial 20,BH,0000,0000,0000,,I've traveled all over, y'know.
+Dialogue: 0,0:13:04.98,0:13:07.75,main arial 20,BH,0000,0000,0000,,I've heard rumors about mystic \Nweapons plenty of times before.
+Dialogue: 0,0:13:07.75,0:13:10.44,main arial 20,BH,0000,0000,0000,,And I've had plenty of people \Ntell me, "This is the real thing!"
+Dialogue: 0,0:13:10.79,0:13:13.09,main arial 20,BH,0000,0000,0000,,Like they're trying to show off.
+Dialogue: 0,0:13:13.09,0:13:15.28,main arial 20,BH,0000,0000,0000,,And most of the time, they're fakes.
+Dialogue: 0,0:13:15.28,0:13:18.92,main arial 20,BH,0000,0000,0000,,They hold up a piece of junk like a \Ntreasure, trying to feel important.
+Dialogue: 0,0:13:19.40,0:13:22.55,main arial 20,DF,0000,0000,0000,,It's true that that when \Ndealing with mystic weapons,
+Dialogue: 0,0:13:22.55,0:13:25.07,main arial 20,DF,0000,0000,0000,,there are many imitations...
+Dialogue: 0,0:13:26.00,0:13:29.09,main arial 20,DF,0000,0000,0000,,But there is only one Tiān Xing Jiàn.
+Dialogue: 0,0:13:29.38,0:13:31.62,main arial 20,BH,0000,0000,0000,,Have you ever checked it out personally?
+Dialogue: 0,0:13:31.62,0:13:34.08,main arial 20,BH,0000,0000,0000,,Has anyone taken it up and swung it around?
+Dialogue: 0,0:13:34.64,0:13:35.60,main arial 20,DF,0000,0000,0000,,Well...
+Dialogue: 0,0:13:35.96,0:13:38.56,main arial 20,BH,0000,0000,0000,,When the Xuán Guǐ Zōng came after it,
+Dialogue: 0,0:13:38.56,0:13:41.22,main arial 20,BH,0000,0000,0000,,you Hù Yìn Shī should've \Ndone exactly that.
+Dialogue: 0,0:13:41.22,0:13:43.61,main arial 20,BH,0000,0000,0000,,If the Tiān Xing Jiàn was just junk,
+Dialogue: 0,0:13:43.93,0:13:46.53,main arial 20,BH,0000,0000,0000,,Miè Tiān Hái would've had to \Nhave laughed and turned away.
+Dialogue: 0,0:13:46.53,0:13:48.25,main arial 20,BH,0000,0000,0000,,And if it was the real deal,
+Dialogue: 0,0:13:48.25,0:13:51.62,main arial 20,BH,0000,0000,0000,,you could've used it to mete out some \Ndivine punishment on the bastard.
+Dialogue: 0,0:13:51.96,0:13:55.35,main arial 20,BH,0000,0000,0000,,That sounds like a fair use of a \Nsword made for fighting evil, right?
+Dialogue: 0,0:13:55.87,0:13:59.13,main arial 20,DF,0000,0000,0000,,But to do something so dreadful...
+Dialogue: 0,0:13:59.93,0:14:03.36,main arial 20,BH,0000,0000,0000,,No matter how mystic or remarkable \Na sword is, it's still a sword.
+Dialogue: 0,0:14:03.36,0:14:06.07,main arial 20,BH,0000,0000,0000,,It's just a tool. Not a god.
+Dialogue: 0,0:14:06.07,0:14:09.98,main arial 20,BH,0000,0000,0000,,How can you be afraid of using \Nit without even touching it first?
+Dialogue: 0,0:14:09.98,0:14:13.75,main arial 20,DF,0000,0000,0000,,Among my clan, that's the gravest taboo!
+Dialogue: 0,0:14:13.75,0:14:16.84,main arial 20,DF,0000,0000,0000,,You're saying that's what \Nwe should have done?
+Dialogue: 0,0:14:16.84,0:14:19.41,main arial 20,BH,0000,0000,0000,,Sounds to me like what \Nyou're really afraid of...
+Dialogue: 0,0:14:19.41,0:14:22.68,main arial 20,BH,0000,0000,0000,,Is breaking with the tradition \Nthat your ancestors established.
+Dialogue: 0,0:14:22.98,0:14:24.44,main arial 20,DF,0000,0000,0000,,That can't be...
+Dialogue: 0,0:14:24.44,0:14:27.32,main arial 20,BH,0000,0000,0000,,I feel bad for your brother.
+Dialogue: 0,0:14:27.32,0:14:33.04,main arial 20,BH,0000,0000,0000,,But this thing doesn't sound like \Nit's worse losing your life over,
+Dialogue: 0,0:14:33.04,0:14:39.15,main arial 20,BH,0000,0000,0000,,and definitely not worth risking \Nyour life to clean up the mess it caused.
+Dialogue: 0,0:14:39.15,0:14:41.94,main arial 20,DF,0000,0000,0000,,But... we've...
+Dialogue: 0,0:14:41.94,0:14:44.51,main arial 20,BH,0000,0000,0000,,We're leaving early tomorrow, right?
+Dialogue: 0,0:14:44.51,0:14:47.39,main arial 20,BH,0000,0000,0000,,Quit wasting time around \Nhere and get some rest.
+Dialogue: 0,0:14:47.39,0:14:51.17,main arial 20,BH,0000,0000,0000,,This might be our last chance \Nto sleep somewhere decent.
+Dialogue: 0,0:14:51.44,0:14:52.51,main arial 20,DF,0000,0000,0000,,Right...
+Dialogue: 0,0:14:56.81,0:14:58.30,main arial 20,BH,0000,0000,0000,,Now, then...
+Dialogue: 0,0:15:05.25,0:15:07.39,main arial 20,BH,0000,0000,0000,,Peeping, huh? That's a real \Nnoble hobby you've got.
+Dialogue: 0,0:15:07.61,0:15:10.49,main arial 20,JC,0000,0000,0000,,Hey, don't make it sound so terrible!
+Dialogue: 0,0:15:10.49,0:15:15.20,main arial 20,JC,0000,0000,0000,,I-I was just trying to make sure you \Ndidn't try anything with Miss Dān Fěi!
+Dialogue: 0,0:15:15.20,0:15:17.76,main arial 20,BH,0000,0000,0000,,Now who's making insulting assumptions?
+Dialogue: 0,0:15:18.14,0:15:21.52,main arial 20,JC,0000,0000,0000,,Well, you were picking on her, weren't you?
+Dialogue: 0,0:15:21.52,0:15:23.98,main arial 20,JC,0000,0000,0000,,She looked really sad just now!
+Dialogue: 0,0:15:23.98,0:15:27.93,main arial 20,BH,0000,0000,0000,,Quit trying to paint me as the bad \Nguy if you don't know what happened.
+Dialogue: 0,0:15:27.93,0:15:31.25,main arial 20,JC,0000,0000,0000,,Like I was asking, what happened?!
+Dialogue: 0,0:15:31.25,0:15:34.25,main arial 20,JC,0000,0000,0000,,Neither my bro or Mister \NGuǐ Niǎo will explain!
+Dialogue: 0,0:15:34.25,0:15:37.52,main arial 20,JC,0000,0000,0000,,Why's Miss Dān Fěi so desperate?!
+Dialogue: 0,0:15:37.52,0:15:41.71,main arial 20,BH,0000,0000,0000,,You just tagged along as the \Nbow master's sidekick, anyway.
+Dialogue: 0,0:15:41.71,0:15:42.98,main arial 20,BH,0000,0000,0000,,You don't need to know.
+Dialogue: 0,0:15:42.98,0:15:43.94,main arial 20,JC,0000,0000,0000,,Ow, ow, ow!
+Dialogue: 0,0:15:43.94,0:15:45.53,main arial 20,JC,0000,0000,0000,,I'm not just gonna drop it!
+Dialogue: 0,0:15:45.53,0:15:49.60,main arial 20,JC,0000,0000,0000,,I can't talk to Miss Dān Fěi about \Nit unless I know what's going on!
+Dialogue: 0,0:15:50.84,0:15:53.16,main arial 20,BH,0000,0000,0000,,So that's what you're after.
+Dialogue: 0,0:15:53.16,0:15:58.25,main arial 20,JC,0000,0000,0000,,I mean, she's so pretty, right?\NAnd acts so cute...
+Dialogue: 0,0:15:58.71,0:16:00.99,main arial 20,BH,0000,0000,0000,,Look, just give it a rest.
+Dialogue: 0,0:16:00.99,0:16:04.33,main arial 20,BH,0000,0000,0000,,She belongs to a prim and \Nproper Hù Yìn Shī family.
+Dialogue: 0,0:16:04.33,0:16:07.56,main arial 20,BH,0000,0000,0000,,There's no way she'd be a good \Nmatch for a goof like you.
+Dialogue: 0,0:16:07.56,0:16:10.91,main arial 20,JC,0000,0000,0000,,Nope! If I let this slip by...
+Dialogue: 0,0:16:10.91,0:16:14.83,main arial 20,JC,0000,0000,0000,,I mean, a chance to get close to someone \Nwith as high a standing as a Hù Yìn Shī...
+Dialogue: 0,0:16:14.83,0:16:17.13,main arial 20,JC,0000,0000,0000,,It might never come again, y'know?
+Dialogue: 0,0:16:17.13,0:16:20.71,main arial 20,JC,0000,0000,0000,,In that case, I need to work as hard \Nas I can to make the best of it!
+Dialogue: 0,0:16:21.83,0:16:24.44,main arial 20,BH,0000,0000,0000,,Quit being stupid and go to bed.
+Dialogue: 0,0:16:24.44,0:16:26.00,main arial 20,,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:16:29.39,0:16:33.17,main arial 20,JC,0000,0000,0000,,Maybe if I was more famous...
+Dialogue: 0,0:16:33.17,0:16:35.51,main arial 20,JC,0000,0000,0000,,So that when they hear\N"The Frozen Wonder of the Spear,"
+Dialogue: 0,0:16:35.51,0:16:39.11,main arial 20,JC,0000,0000,0000,,any girl would sigh in awe...
+Dialogue: 0,0:16:40.06,0:16:41.18,main arial 20,JC,0000,0000,0000,,I'm not there yet.
+Dialogue: 0,0:16:51.75,0:16:56.28,main arial 20,DF,0000,0000,0000,,Excuse me, but... does someone \Nactually live in this place?
+Dialogue: 0,0:16:57.03,0:17:00.12,main arial 20,BH,0000,0000,0000,,The air in this forest is strange, somehow.
+Dialogue: 0,0:17:00.12,0:17:04.14,main arial 20,BH,0000,0000,0000,,Someone unprepared would go \Ncrazy from being here too long.
+Dialogue: 0,0:17:04.14,0:17:07.32,main arial 20,SY,0000,0000,0000,,That's exactly what I'd expect \Nfrom Xíng Hài's domain.
+Dialogue: 0,0:17:07.32,0:17:11.24,main arial 20,SY,0000,0000,0000,,She'd never have the same domestic\Npreferences that a human would.
+Dialogue: 0,0:17:11.24,0:17:14.06,main arial 20,BH,0000,0000,0000,,Wait... what do you mean by that?
+Dialogue: 0,0:17:17.38,0:17:21.42,main arial 20,XH,0000,0000,0000,,You fools who have entered \Nthe Night Devil Forest...
+Dialogue: 0,0:17:22.13,0:17:26.92,main arial 20,XH,0000,0000,0000,,Have you trespassed on this ground \Nknowing it to be the home of Xíng Hài ?
+Dialogue: 0,0:17:30.01,0:17:33.14,main arial 20,XY,0000,0000,0000,,Don't panic. It's just an illusion.
+Dialogue: 0,0:17:33.14,0:17:35.50,main arial 20,XY,0000,0000,0000,,Think of it as the nameplate \Nhanging on her door.
+Dialogue: 0,0:17:35.93,0:17:40.01,main arial 20,XH,0000,0000,0000,,If you leave immediately, \Nvery well. If not...
+Dialogue: 0,0:17:40.77,0:17:44.09,main arial 20,XH,0000,0000,0000,,You will experience otherworldly suffering
+Dialogue: 0,0:17:44.09,0:17:46.79,main arial 20,XH,0000,0000,0000,,before losing your life!
+Dialogue: 0,0:17:46.79,0:17:50.05,main arial 20,XH,0000,0000,0000,,This is your final warning!
+Dialogue: 0,0:17:51.74,0:17:54.65,main arial 20,BH,0000,0000,0000,,Wh-What was that?
+Dialogue: 0,0:17:55.25,0:17:57.86,main arial 20,XY,0000,0000,0000,,Her idea of greeting visitors.
+Dialogue: 0,0:17:57.86,0:18:00.69,main arial 20,XY,0000,0000,0000,,A bit of a roundabout way to put it, I know.
+Dialogue: 0,0:18:00.69,0:18:03.19,main arial 20,BH,0000,0000,0000,,Do your ears work right?
+Dialogue: 0,0:18:03.19,0:18:06.63,main arial 20,BH,0000,0000,0000,,And that was Xíng Hài? She looked \Nlike some kind of evil demon!
+Dialogue: 0,0:18:06.93,0:18:11.87,main arial 20,XY,0000,0000,0000,,I said she was a woman,\Nbut I never said she was human.
+Dialogue: 0,0:18:12.13,0:18:16.00,main arial 20,BH,0000,0000,0000,,You want to invite a demon \Nto join us? Are you insane?!
+Dialogue: 0,0:18:16.44,0:18:19.08,main arial 20,XY,0000,0000,0000,,You can say the word "demon"...
+Dialogue: 0,0:18:19.08,0:18:21.17,main arial 20,XY,0000,0000,0000,,But there were those who did \Nnot return to the demon realm
+Dialogue: 0,0:18:21.17,0:18:22.77,main arial 20,XY,0000,0000,0000,,after the War of Fading Dusk
+Dialogue: 0,0:18:22.77,0:18:27.18,main arial 20,XY,0000,0000,0000,,because they had some attachment \Nto the human realm.
+Dialogue: 0,0:18:27.18,0:18:31.14,main arial 20,XY,0000,0000,0000,,It's prejudiced of you to \Nassume that they're all bad.
+Dialogue: 0,0:18:31.14,0:18:34.17,main arial 20,XY,0000,0000,0000,,Some of them are quite good-natured.
+Dialogue: 0,0:18:34.67,0:18:38.45,main arial 20,SY,0000,0000,0000,,It's true that not all demons \Nare necessarily evil.
+Dialogue: 0,0:18:38.45,0:18:40.09,main arial 20,SY,0000,0000,0000,,But they say...
+Dialogue: 0,0:18:40.86,0:18:44.02,main arial 20,SY,0000,0000,0000,,Xíng Hài makes youth elixirs from\Nthe freshly-butchered livers of children.
+Dialogue: 0,0:18:44.02,0:18:46.71,main arial 20,SY,0000,0000,0000,,She's as evil as demons come.
+Dialogue: 0,0:18:47.33,0:18:50.06,main arial 20,JC,0000,0000,0000,,Yeah, she's the one who wanted \Nto make an ideal living doll,
+Dialogue: 0,0:18:50.06,0:18:54.87,main arial 20,JC,0000,0000,0000,,so she cut up 100 beautiful men \Nto collect the parts, isn't she?
+Dialogue: 0,0:18:55.24,0:19:00.73,main arial 20,XY,0000,0000,0000,,Those are just rumors. Have you two\Nactually seen her do anything evil before?
+Dialogue: 0,0:19:00.73,0:19:04.62,main arial 20,DF,0000,0000,0000,,But even then, if she's a demon \Nthat practices necromancy...
+Dialogue: 0,0:19:04.62,0:19:06.65,main arial 20,DF,0000,0000,0000,,That means she's steeped in the darkest arts.
+Dialogue: 0,0:19:06.65,0:19:08.25,main arial 20,XY,0000,0000,0000,,If they can understand our words,
+Dialogue: 0,0:19:08.25,0:19:11.94,main arial 20,XY,0000,0000,0000,,and are capable of understanding \Nsimple cost and benefit...
+Dialogue: 0,0:19:11.94,0:19:15.34,main arial 20,XY,0000,0000,0000,,They can be negotiated into \Ncooperating, no matter who they are.
+Dialogue: 0,0:19:15.34,0:19:17.23,main arial 20,XY,0000,0000,0000,,We just need to present the right offer.
+Dialogue: 0,0:19:17.51,0:19:22.47,main arial 20,SY,0000,0000,0000,,And maybe she didn't respond to your summons \Nbecause she didn't like your offer?
+Dialogue: 0,0:19:24.41,0:19:27.86,main arial 20,XY,0000,0000,0000,,Which necessitates talking to her directly.
+Dialogue: 0,0:19:27.86,0:19:32.23,main arial 20,XY,0000,0000,0000,,Her help is absolutely necessary \Nfor our endeavor, after all.
+Dialogue: 0,0:19:32.76,0:19:34.61,main arial 20,BH,0000,0000,0000,,You still wanna do this?
+Dialogue: 0,0:19:34.61,0:19:37.32,main arial 20,BH,0000,0000,0000,,After getting such a clear \N"no visitors" message?
+Dialogue: 0,0:19:37.79,0:19:41.44,main arial 20,XY,0000,0000,0000,,I already told you,\Nwhat we saw was an illusion.
+Dialogue: 0,0:19:41.44,0:19:44.93,main arial 20,XY,0000,0000,0000,,It would've shown the same, \Nno matter who came through,
+Dialogue: 0,0:19:44.93,0:19:47.69,main arial 20,XY,0000,0000,0000,,saying the same things, before disappearing.
+Dialogue: 0,0:19:48.53,0:19:51.96,main arial 20,XY,0000,0000,0000,,It's no different than having a sign posted.
+Dialogue: 0,0:19:52.28,0:19:57.30,main arial 20,JC,0000,0000,0000,,But the sign said something along \Nthe lines of, "Enter and die!"
+Dialogue: 0,0:19:57.58,0:20:02.84,main arial 20,XY,0000,0000,0000,,I must meet Xíng Hài \Nherself to discuss this.
+Dialogue: 0,0:20:02.84,0:20:06.85,main arial 20,XY,0000,0000,0000,,And standing here discussing matters \Nwon't help move things along.
+Dialogue: 0,0:20:07.76,0:20:09.88,main arial 20,XY,0000,0000,0000,,Now, let's go!
+Dialogue: 0,0:20:16.04,0:20:20.56,main arial 20,BH,0000,0000,0000,,So... now that we've ignored her little \Nwarning and decided to trespass...
+Dialogue: 0,0:20:20.56,0:20:22.91,main arial 20,BH,0000,0000,0000,,What are we gonna be dealing with?
+Dialogue: 0,0:20:22.91,0:20:28.17,main arial 20,XY,0000,0000,0000,,Most likely we'll have to deal with \Nthe barking of her guard dogs.
+Dialogue: 0,0:20:28.59,0:20:31.21,main arial 20,BH,0000,0000,0000,,Guard dogs?! Are they who \Nyou're talking about?
+Dialogue: 0,0:20:36.51,0:20:41.43,main arial 20,XY,0000,0000,0000,,Well, what sense would it make for \Na necromancer to keep live dogs?
+Dialogue: 0,0:20:41.43,0:20:45.68,main arial 20,BH,0000,0000,0000,,I am really starting to want to sew \Nthat smug mouth of yours shut.
+Dialogue: 0,0:20:52.20,0:20:56.98,main arial 20,DF,0000,0000,0000,,You're certain you know how \Nto convince this demon?
+Dialogue: 0,0:20:57.46,0:20:59.06,main arial 20,XY,0000,0000,0000,,Of course.
+Dialogue: 0,0:21:00.46,0:21:05.23,main arial 20,DF,0000,0000,0000,,Then I shall occupy these pitiful corpses.
+Dialogue: 0,0:21:05.82,0:21:09.75,main arial 20,DF,0000,0000,0000,,Use that chance to move on, Sir Guǐ Niǎo.
+Dialogue: 0,0:21:09.75,0:21:12.29,main arial 20,JC,0000,0000,0000,,Hey! That's dangerous!
+Dialogue: 0,0:21:12.29,0:21:14.48,main arial 20,JC,0000,0000,0000,,Leaving a girl alone to hold this spot...
+Dialogue: 0,0:21:14.94,0:21:19.28,main arial 20,SY,0000,0000,0000,,Juǎn, you stay behind and assist \Nour honorable Hù Yìn Shī.
+Dialogue: 0,0:21:19.28,0:21:21.55,main arial 20,JC,0000,0000,0000,,Oh, you got it!
+Dialogue: 0,0:21:23.42,0:21:25.75,main arial 20,JC,0000,0000,0000,,Tornado Clearing!
+Dialogue: 0,0:21:31.49,0:21:34.76,main arial 20,BH,0000,0000,0000,,Huh, looks like you can back \Nup some of that big mouth.
+Dialogue: 0,0:21:35.54,0:21:39.16,main arial 20,SY,0000,0000,0000,,I wouldn't have brought him if I \Ndidn't think he'd come in handy.
+Dialogue: 0,0:21:39.16,0:21:40.93,main arial 20,SY,0000,0000,0000,,Come on, let's move.
+Dialogue: 0,0:21:41.36,0:21:45.24,main arial 20,SY,0000,0000,0000,,You two, remember, you need \Nonly buy us some time.
+Dialogue: 0,0:21:45.66,0:21:48.52,main arial 20,SY,0000,0000,0000,,Do not overextend yourselves.
+Dialogue: 0,0:21:48.52,0:21:50.05,main arial 20,DF,0000,0000,0000,,Understood.
+Dialogue: 0,0:21:58.91,0:22:00.49,main arial 20,JC,0000,0000,0000,,Come on, come on, come on!
+Dialogue: 0,0:22:00.49,0:22:02.79,main arial 20,JC,0000,0000,0000,,It's finally time for me to strut my stuff!
+Dialogue: 0,0:22:08.05,0:22:10.31,main arial 20,JC,0000,0000,0000,,You can get back, Miss Dān Fěi!
+Dialogue: 0,0:22:10.31,0:22:12.41,main arial 20,JC,0000,0000,0000,,I can handle them alone!
+Dialogue: 0,0:22:12.41,0:22:15.27,main arial 20,DF,0000,0000,0000,,Oh, no, don't mind me.
+Dialogue: 0,0:22:15.83,0:22:19.31,main arial 20,,0000,0000,0000,,Dān Blade Technique: \NFlowering Night Judgment!
+Dialogue: 0,0:22:26.81,0:22:28.45,main arial 20,JC,0000,0000,0000,,S-So elegant!
+Dialogue: 0,0:22:29.23,0:22:33.89,main arial 20,DF,0000,0000,0000,,To falter in the face of dark arts \Nwould bring shame on the Hù Yìn Shī.
+Dialogue: 0,0:22:34.32,0:22:40.19,main arial 20,DF,0000,0000,0000,,Now, attack me as you will!
+Dialogue: 0,0:22:45.63,0:22:47.37,main arial 20,JC,0000,0000,0000,,Dragon Storm Strike!
+Dialogue: 0,0:22:48.47,0:22:51.94,main arial 20,DF,0000,0000,0000,,Dān Blade Technique: Sacred Bristle Ward!
+Dialogue: 0,0:22:59.35,0:23:02.52,main arial 20,JC,0000,0000,0000,,We make quite the pair, don't we?
+Dialogue: 0,0:23:02.52,0:23:06.24,main arial 20,DF,0000,0000,0000,,Please stop being silly\Nand focus on the battle.
+Dialogue: 0,0:23:18.63,0:23:22.31,main arial 20,XH,0000,0000,0000,,Damn you... damn you,  Enigmatic Gale!
+Dialogue: 0,0:23:22.76,0:23:27.60,main arial 20,XH,0000,0000,0000,,You ignore my warning and disrupt \Nmy refuge in these woods?!
+Dialogue: 0,0:23:28.25,0:23:29.84,main arial 20,XH,0000,0000,0000,,You will pay...
+Dialogue: 0,0:23:29.84,0:23:32.73,main arial 20,XH,0000,0000,0000,,I swear that you will pay for this!
+Dialogue: 0,0:23:39.95,0:23:43.01,italics arial 20,XH,0000,0000,0000,,A dream lasts a single night. \NLove, a single summer.
+Dialogue: 0,0:23:39.95,0:23:49.96,Next Episode Title,Sign,0000,0000,0000,,Next Time  "The Whereabouts of the Soul Echo Flute"
+Dialogue: 0,0:23:43.01,0:23:44.72,italics arial 20,XH,0000,0000,0000,,Hatred... a lifetime.
+Dialogue: 0,0:23:44.72,0:23:48.79,italics arial 20,XH,0000,0000,0000,,The comeuppance for past deeds bares it's \Nfangs with no consideration for the moment.
